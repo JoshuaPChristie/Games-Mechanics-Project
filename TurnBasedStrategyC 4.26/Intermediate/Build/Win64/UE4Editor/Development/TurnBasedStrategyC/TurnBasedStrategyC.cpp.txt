@@ -1,0 +1,2 @@
+C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\Definitions.TurnBasedStrategyC.h
+C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Source\TurnBasedStrategyC\TurnBasedStrategyC.h

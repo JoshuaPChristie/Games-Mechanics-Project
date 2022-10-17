@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TurnBasedStrategyC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\TurnBasedStrategyCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\TurnBasedStrategyC.cpp.obj"
+"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\TurnBasedStrategyCCharacter.cpp.obj"
+"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\TurnBasedStrategyCGameMode.cpp.obj"
+"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\TurnBasedStrategyCGrid.cpp.obj"
+"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\TurnBasedStrategyCPlayerController.cpp.obj"
+"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\TurnBasedStrategyC.init.gen.cpp.obj"
+"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\TurnBasedStrategyCCharacter.gen.cpp.obj"
+"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\TurnBasedStrategyCGameMode.gen.cpp.obj"
+"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\TurnBasedStrategyCGrid.gen.cpp.obj"
+"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\TurnBasedStrategyCPlayerController.gen.cpp.obj"
+"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\Default.rc2.res"
+/OUT:"C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC.lib"
+/INCLUDE:IMPLEMENT_MODULE_TurnBasedStrategyC

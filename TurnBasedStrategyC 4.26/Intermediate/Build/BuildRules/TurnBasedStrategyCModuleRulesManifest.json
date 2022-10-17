@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\joshp\\Documents\\Abertay\\Year 3\\CMP302\\Unreal Projects\\Week 4\\TurnBasedStrategyC 4.26\\Source\\TurnBasedStrategyC\\TurnBasedStrategyC.Build.cs",
+		"C:\\Users\\joshp\\Documents\\Abertay\\Year 3\\CMP302\\Unreal Projects\\Week 4\\TurnBasedStrategyC 4.26\\Source\\TurnBasedStrategyC.Target.cs",
+		"C:\\Users\\joshp\\Documents\\Abertay\\Year 3\\CMP302\\Unreal Projects\\Week 4\\TurnBasedStrategyC 4.26\\Source\\TurnBasedStrategyCEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

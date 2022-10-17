@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TurnBasedStrategyC",
+			"Path": "C:\\Users\\joshp\\Documents\\Abertay\\Year 3\\CMP302\\Unreal Projects\\Week 4\\TurnBasedStrategyC 4.26\\Source\\TurnBasedStrategyC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TurnBasedStrategyCEditor",
+			"Path": "C:\\Users\\joshp\\Documents\\Abertay\\Year 3\\CMP302\\Unreal Projects\\Week 4\\TurnBasedStrategyC 4.26\\Source\\TurnBasedStrategyCEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

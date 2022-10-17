@@ -1,0 +1,3 @@
+C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\Definitions.TurnBasedStrategyC.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

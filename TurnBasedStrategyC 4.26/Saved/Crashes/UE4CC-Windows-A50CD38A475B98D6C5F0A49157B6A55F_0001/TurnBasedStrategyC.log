@@ -1,0 +1,1417 @@
+﻿Log file open, 12/29/20 12:51:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TurnBasedStrategyC
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.102620
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.29-12.51.11:987][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.29-12.51.11:987][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.29-12.51.11:987][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.29-12.51.11:991][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.29-12.51.11:991][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.29-12.51.11:992][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.29-12.51.11:993][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.29-12.51.11:993][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.29-12.51.11:993][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.29-12.51.11:998][  0]LogHAL: Display: Platform has ~ 16 GB [17039638528 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.29-12.51.11:998][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.29-12.51.11:998][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.29-12.51.11:998][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.29-12.51.11:999][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.29-12.51.12:000][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.29-12.51.12:001][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.29-12.51.12:001][  0]LogInit: Computer: DESKTOP-54B9TDU
+[2020.12.29-12.51.12:001][  0]LogInit: User: joshp
+[2020.12.29-12.51.12:001][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.29-12.51.12:001][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.29-12.51.12:001][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.29-12.51.12:001][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.29-12.51.12:001][  0]LogMemory: Process Physical Memory: 105.47 MB used, 105.47 MB peak
+[2020.12.29-12.51.12:001][  0]LogMemory: Process Virtual Memory: 100.59 MB used, 100.59 MB peak
+[2020.12.29-12.51.12:001][  0]LogMemory: Physical Memory: 10665.80 MB used,  5584.47 MB free, 16250.27 MB total
+[2020.12.29-12.51.12:001][  0]LogMemory: Virtual Memory: 5137.62 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.12.29-12.51.12:007][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.29-12.51.12:041][  0]LogInit: Using OS detected language (en-US).
+[2020.12.29-12.51.12:041][  0]LogInit: Using OS detected locale (en-GB).
+[2020.12.29-12.51.12:043][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.29-12.51.12:334][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.29-12.51.12:381][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.29-12.51.12:381][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.29-12.51.12:677][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.29-12.51.12:677][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.29-12.51.12:677][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.29-12.51.12:677][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.29-12.51.12:780][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.12.29-12.51.12:780][  0]LogD3D11RHI:       4018/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.29-12.51.12:820][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.12.29-12.51.12:820][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.29-12.51.12:825][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.29-12.51.12:825][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.29-12.51.12:825][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.29-12.51.12:872][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.29-12.51.12:872][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.12.29-12.51.12:872][  0]LogWindows: EnumDisplayDevices:
+[2020.12.29-12.51.12:872][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.12.29-12.51.12:873][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.29-12.51.12:873][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.29-12.51.12:873][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.12.29-12.51.12:874][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.12.29-12.51.12:874][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.12.29-12.51.12:874][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.12.29-12.51.12:874][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.12.29-12.51.12:874][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.12.29-12.51.12:931][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.29-12.51.12:931][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.29-12.51.12:948][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.29-12.51.13:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.29-12.51.13:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.29-12.51.13:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.29-12.51.13:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.29-12.51.13:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.29-12.51.13:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.29-12.51.13:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.29-12.51.13:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.29-12.51.13:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.29-12.51.13:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.29-12.51.13:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.29-12.51.13:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.29-12.51.13:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.29-12.51.13:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.29-12.51.13:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.29-12.51.13:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.29-12.51.13:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.29-12.51.13:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.29-12.51.13:679][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.29-12.51.13:684][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.29-12.51.13:726][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Intermediate/Shaders/WorkingDirectory/18832/).
+[2020.12.29-12.51.13:727][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joshp/AppData/Local/Temp/UnrealShaderWorkingDir/DE3D51BC4258CAAB3069EAA42049A127/'.
+[2020.12.29-12.51.13:727][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.29-12.51.13:727][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.29-12.51.13:727][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.29-12.51.14:821][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.29-12.51.14:906][  0]LogDerivedDataCache: Loaded boot cache 0.09s 82MB C:/Users/joshp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.12.29-12.51.14:906][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joshp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.12.29-12.51.14:906][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.29-12.51.14:906][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.29-12.51.14:906][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.29-12.51.14:906][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.29-12.51.14:918][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.29-12.51.14:918][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.29-12.51.14:918][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.29-12.51.14:920][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joshp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.29-12.51.14:920][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.29-12.51.14:920][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.29-12.51.14:957][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.29-12.51.14:960][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.29-12.51.14:961][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.29-12.51.15:044][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2020.12.29-12.51.15:483][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.29-12.51.15:693][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.29-12.51.15:693][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.29-12.51.15:693][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.29-12.51.15:693][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.29-12.51.15:693][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.29-12.51.15:712][  0]LogNetVersion: TurnBasedStrategyC 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 900694456)
+[2020.12.29-12.51.17:337][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.055601 seconds
+[2020.12.29-12.51.17:348][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.12.29-12.51.17:348][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.12.29-12.51.17:348][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.29-12.51.17:921][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.29-12.51.17:925][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.29-12.51.18:235][  0]SourceControl: Source control is disabled
+[2020.12.29-12.51.18:235][  0]SourceControl: Source control is disabled
+[2020.12.29-12.51.18:238][  0]SourceControl: Source control is disabled
+[2020.12.29-12.51.18:241][  0]SourceControl: Source control is disabled
+[2020.12.29-12.51.18:245][  0]SourceControl: Source control is disabled
+[2020.12.29-12.51.18:429][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.29-12.51.18:456][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.29-12.51.18:456][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.29-12.51.18:620][  0]LogOcInput: OculusInput pre-init called
+[2020.12.29-12.51.18:636][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.29-12.51.18:636][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.29-12.51.18:747][  0]LogEngine: Initializing Engine...
+[2020.12.29-12.51.18:749][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.29-12.51.18:750][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.29-12.51.19:260][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.29-12.51.19:271][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.29-12.51.19:293][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.29-12.51.19:293][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.29-12.51.19:293][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.29-12.51.19:293][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.29-12.51.19:293][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.29-12.51.19:293][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.29-12.51.19:293][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.29-12.51.19:293][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.29-12.51.19:294][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.29-12.51.19:294][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.29-12.51.19:310][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.29-12.51.19:310][  0]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.29-12.51.19:310][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.12.29-12.51.19:310][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.29-12.51.19:310][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.29-12.51.19:310][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.29-12.51.19:310][  0]LogAudioMixer: Display: Channel Order:
+[2020.12.29-12.51.19:310][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.29-12.51.19:310][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.29-12.51.19:411][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (2- Realtek Audio)
+[2020.12.29-12.51.19:418][  0]LogInit: FAudioDevice initialized.
+[2020.12.29-12.51.19:419][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.29-12.51.19:559][  0]LogDerivedDataCache: Saved boot cache 0.14s 82MB C:/Users/joshp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.12.29-12.51.19:561][  0]LogInit: Texture streaming: Enabled
+[2020.12.29-12.51.19:584][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.29-12.51.19:584][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.29-12.51.19:591][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.29-12.51.19:643][  0]LogInit: Transaction tracking system initialized
+[2020.12.29-12.51.19:666][  0]BlueprintLog: New page: Editor Load
+[2020.12.29-12.51.19:736][  0]LocalizationService: Localization service is disabled
+[2020.12.29-12.51.19:809][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.12.29-12.51.19:809][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.12.29-12.51.19:809][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2020.12.29-12.51.20:262][  0]LogFileCache: Scanning file cache for directory 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/' took 0.00s
+[2020.12.29-12.51.20:262][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.29-12.51.20:262][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.29-12.51.21:231][  0]SourceControl: Source control is disabled
+[2020.12.29-12.51.21:231][  0]Cmd: MAP LOAD FILE="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/TopDownCPP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.29-12.51.21:231][  0]LightingResults: New page: Lighting Build
+[2020.12.29-12.51.21:232][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.29-12.51.21:232][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.29-12.51.21:232][  0]MapCheck: New page: Map Check
+[2020.12.29-12.51.21:232][  0]LightingResults: New page: Lighting Build
+[2020.12.29-12.51.21:260][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.12.29-12.51.21:404][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.12.29-12.51.21:454][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.29-12.51.21:505][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.12.29-12.51.21:505][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.29-12.51.21:505][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2020.12.29-12.51.21:505][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.274
+[2020.12.29-12.51.21:656][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.29-12.51.21:664][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.29-12.51.21:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.29-12.51.21:679][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.29-12.51.21:689][  0]LogCollectionManager: Loaded 0 collections in 0.002071 seconds
+[2020.12.29-12.51.21:703][  0]LogFileCache: Scanning file cache for directory 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Collections/' took 0.00s
+[2020.12.29-12.51.21:703][  0]LogFileCache: Scanning file cache for directory 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/Developers/joshp/Collections/' took 0.00s
+[2020.12.29-12.51.21:703][  0]LogFileCache: Scanning file cache for directory 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/Collections/' took 0.00s
+[2020.12.29-12.51.21:703][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 3019 classes and 719 folders.
+[2020.12.29-12.51.21:706][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.12.29-12.51.21:785][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.29-12.51.21:792][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.12.29-12.51.21:879][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.29-12.51.21:884][  0]LogSlate: Took 0.000648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.29-12.51.21:890][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.29-12.51.21:977][  0]LogRenderer: Reallocating scene render targets to support 916x328 Format 10 NumSamples 1 (Frame:1).
+[2020.12.29-12.51.22:240][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.29-12.51.22:240][  0]LogLoad: (Engine Initialization) Total time: 12.99 seconds
+[2020.12.29-12.51.22:240][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.29-12.51.22:307][  0]LogAssetRegistry: Asset discovery search completed in 7.2642 seconds
+[2020.12.29-12.51.22:312][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.12.29-12.51.22:313][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.29-12.51.22:347][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.29-12.51.27:237][262]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.29-12.51.27:257][262]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Grid.Grid
+[2020.12.29-12.51.27:489][262]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.12.29-12.51.31:230][422]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-12.51.31:240][422]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-12.51.31:252][422]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.29-12.51.31:253][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.29-12.51.32:229][476]Candidate modules for hot reload:
+[2020.12.29-12.51.32:230][476]  TurnBasedStrategyC
+[2020.12.29-12.51.32:230][476]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,5712 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.29-12.51.32:232][476]Warning: Starting HotReload took  0.0s.
+[2020.12.29-12.51.35:748][663]CompilerResultsLog: New page: Compilation - 29 Dec 2020, 12:51:35
+[2020.12.29-12.51.35:748][663]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.29-12.51.35:748][663]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.29-12.51.35:748][663]CompilerResultsLog: Building 3 actions with 8 processes...
+[2020.12.29-12.51.35:748][663]CompilerResultsLog:   [1/3] UE4Editor-TurnBasedStrategyC-5712.lib
+[2020.12.29-12.51.35:748][663]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-5712.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-5712.exp
+[2020.12.29-12.51.35:748][663]CompilerResultsLog:   [2/3] UE4Editor-TurnBasedStrategyC-5712.dll
+[2020.12.29-12.51.35:749][663]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-5712.suppressed.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-5712.suppressed.exp
+[2020.12.29-12.51.35:749][663]CompilerResultsLog:   [3/3] TurnBasedStrategyCEditor.target
+[2020.12.29-12.51.35:749][663]CompilerResultsLog: Total time in Parallel executor: 1.72 seconds
+[2020.12.29-12.51.35:749][663]CompilerResultsLog: Total execution time: 3.41 seconds
+[2020.12.29-12.51.35:749][663]LogMainFrame: MainFrame: Module compiling took 3.531 seconds
+[2020.12.29-12.51.35:793][663]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.12.29-12.51.35:915][663]LogContentBrowser: Native class hierarchy updated for 'TurnBasedStrategyC' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2020.12.29-12.51.35:919][663]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.29-12.51.36:011][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.12.29-12.51.36:027][663]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 3021 classes and 722 folders.
+[2020.12.29-12.51.36:027][663]Display: HotReload took  3.8s.
+[2020.12.29-12.51.38:084][761]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Grid.Grid
+[2020.12.29-12.51.40:871][884]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-12.51.40:881][884]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.29-12.51.40:881][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.29-12.51.40:962][884]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Grid.Grid
+[2020.12.29-12.51.41:414][884]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.29-12.51.42:530][942]LogSlate: Took 0.000572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.29-12.51.46:577][176]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-12.51.46:586][176]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-12.51.46:586][176]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.29-12.51.46:586][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.29-12.52.07:190][687]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Grid.Grid
+[2020.12.29-12.52.15:532][146]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-12.52.15:541][146]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-12.52.15:542][146]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.29-12.52.15:542][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.29-12.52.20:673][426]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.12.29-12.52.24:162][426]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.29-12.52.24:371][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.12.29-12.52.24:414][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.12.29-12.52.24:441][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.12.29-12.52.32:336][877]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.12.29-12.52.32:336][877]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.12.29-12.52.37:497][180]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Grid.Grid
+[2020.12.29-12.52.37:932][180]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2020.12.29-12.52.37:993][181]LogRenderer: Reallocating scene render targets to support 916x520 Format 10 NumSamples 1 (Frame:1).
+[2020.12.29-12.52.54:666][142]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-12.52.54:673][142]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-12.52.54:675][142]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.12.29-12.52.54:675][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.29-12.53.20:181][ 97]LogMetaData: Removing '/Game/TopDownCPP/Blueprints/Grid.Grid:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Grid.PackageMetaData'
+[2020.12.29-12.53.20:181][ 97]LogMetaData: Removing '/Game/TopDownCPP/Blueprints/Grid.SKEL_Grid_C:DefaultSceneRoot' ref from Metadata '/Game/Grid.PackageMetaData'
+[2020.12.29-12.53.20:181][ 97]LogMetaData: Removing '/Game/TopDownCPP/Blueprints/Grid.SKEL_Grid_C:UserConstructionScript' ref from Metadata '/Game/Grid.PackageMetaData'
+[2020.12.29-12.53.20:181][ 97]LogMetaData: Removing '/Game/TopDownCPP/Blueprints/Grid.SKEL_Grid_C' ref from Metadata '/Game/Grid.PackageMetaData'
+[2020.12.29-12.53.20:181][ 97]LogMetaData: Removing '/Game/TopDownCPP/Blueprints/Grid.Grid_C:DefaultSceneRoot' ref from Metadata '/Game/Grid.PackageMetaData'
+[2020.12.29-12.53.20:181][ 97]LogMetaData: Removing '/Game/TopDownCPP/Blueprints/Grid.Grid_C' ref from Metadata '/Game/Grid.PackageMetaData'
+[2020.12.29-12.53.20:181][ 97]LogMetaData: Removing '/Game/TopDownCPP/Blueprints/Grid.Grid:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Grid.PackageMetaData'
+[2020.12.29-12.53.20:181][ 97]LogMetaData: Removing '/Game/TopDownCPP/Blueprints/Grid.Grid:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Grid.PackageMetaData'
+[2020.12.29-12.53.20:182][ 97]LogMetaData: Removing '/Game/TopDownCPP/Blueprints/Grid.Grid:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Grid.PackageMetaData'
+[2020.12.29-12.53.20:236][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownCPP/Blueprints/Grid" FILE="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/TopDownCPP/Blueprints/Grid.uasset" SILENT=true
+[2020.12.29-12.53.20:242][ 97]LogSavePackage: Moving 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Grid20EED8E24389AC49D8E3F0897C6F184C.tmp' to 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/TopDownCPP/Blueprints/Grid.uasset'
+[2020.12.29-12.53.20:451][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.12.29-12.53.20:505][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.12.29-12.53.20:535][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.12.29-12.53.20:580][ 97]AssetCheck: New page: Asset Save: Grid
+[2020.12.29-12.53.20:580][ 97]LogContentValidation: Display: Validating Blueprint /Game/TopDownCPP/Blueprints/Grid.Grid
+[2020.12.29-12.53.22:381][199]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Grid.Grid
+[2020.12.29-12.53.25:726][371]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-12.53.25:734][371]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.12.29-12.53.25:734][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.29-12.53.25:813][371]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Grid.Grid
+[2020.12.29-12.53.35:023][870]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-12.53.35:033][870]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-12.53.35:036][870]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.12.29-12.53.35:036][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.29-13.05.44:974][376]LogTemp: Resetting audio stream to device id 
+[2020.12.29-13.05.44:984][376]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.29-13.05.44:984][376]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.29-13.05.44:984][376]LogAudioMixer: Display: Is Default: Yes
+[2020.12.29-13.05.44:984][376]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.29-13.05.44:984][376]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.29-13.05.44:984][376]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.29-13.05.44:984][376]LogAudioMixer: Display: Channel Order:
+[2020.12.29-13.05.44:985][376]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.29-13.05.44:985][376]LogAudioMixer: Display: 1: FrontRight
+[2020.12.29-14.11.34:018][380]LogTemp: Resetting audio stream to device id 
+[2020.12.29-14.11.34:093][380]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.29-14.11.34:094][380]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.29-14.11.34:094][380]LogAudioMixer: Display: Is Default: Yes
+[2020.12.29-14.11.34:094][380]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.29-14.11.34:094][380]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.29-14.11.34:094][380]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.29-14.11.34:094][380]LogAudioMixer: Display: Channel Order:
+[2020.12.29-14.11.34:094][380]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.29-14.11.34:094][380]LogAudioMixer: Display: 1: FrontRight
+[2020.12.29-14.11.34:603][383]LogHttp: Warning: 0000015289E2B740: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4AFB656F-4750-837F-BAE8-1E87CE6042B6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c785faa4413a46b4451f1ba5885a41a2%7Ca025d1ef268a45a081a740cc62f4ad09%7C1a4feff6-6864-4085-98a6-a27defa736e7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.12.29-14.11.34:603][383]LogHttp: Warning: 0000015289E2B740: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.12.29-14.11.34:603][383]LogHttp: Warning: 0000015289E2B740: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15276957f70 [can pipeline])
+[2020.12.29-14.11.34:603][383]LogHttp: Warning: 0000015289E2B740: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2020.12.29-14.11.34:603][383]LogHttp: Warning: 0000015289E2B740: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.205.170.60) port 443 (#5))
+[2020.12.29-14.11.34:603][383]LogHttp: Warning: 0000015289E2B740: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.12.29-14.11.34:603][383]LogHttp: Warning: 0000015289E2B740: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.12.29-14.11.34:603][383]LogHttp: Warning: 0000015289E2B740: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.12.29-14.11.34:603][383]LogHttp: Warning: 0000015289E2B740: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.12.29-14.11.34:604][383]LogHttp: Warning: 0000015289E2B740: libcurl info message cache 7 (Closing connection 5)
+[2020.12.29-14.11.34:933][384]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4AFB656F-4750-837F-BAE8-1E87CE6042B6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c785faa4413a46b4451f1ba5885a41a2%7Ca025d1ef268a45a081a740cc62f4ad09%7C1a4feff6-6864-4085-98a6-a27defa736e7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.12.29-14.39.11:832][550]Candidate modules for hot reload:
+[2020.12.29-14.39.11:832][550]  TurnBasedStrategyC
+[2020.12.29-14.39.11:833][550]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,108 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.29-14.39.11:835][550]Warning: Starting HotReload took  0.0s.
+[2020.12.29-14.39.24:362][281]CompilerResultsLog: New page: Compilation - 29 Dec 2020, 14:39:24
+[2020.12.29-14.39.24:362][281]CompilerResultsLog: Parsing headers for TurnBasedStrategyCEditor
+[2020.12.29-14.39.24:362][281]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\TurnBasedStrategyC.uproject" "D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\TurnBasedStrategyCEditor\Development\TurnBasedStrategyCEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.29-14.39.24:363][281]CompilerResultsLog: Error: D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Source/TurnBasedStrategyC/TurnBasedStrategyCGrid.h(47)  : Error: Unrecognized type 'void' - type must be a UCLASS, USTRUCT or UENUM
+[2020.12.29-14.39.24:363][281]LogMainFrame: MainFrame: Module compiling took 12.548 seconds
+[2020.12.29-14.39.24:363][281]Warning: HotReload failed, recompile failed
+[2020.12.29-14.39.54:108][ 57]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-14.39.54:117][ 57]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-14.42.03:216][614]Candidate modules for hot reload:
+[2020.12.29-14.42.03:216][614]  TurnBasedStrategyC
+[2020.12.29-14.42.03:216][614]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,4892 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.29-14.42.03:218][614]Warning: Starting HotReload took  0.0s.
+[2020.12.29-14.42.14:549][275]CompilerResultsLog: New page: Compilation - 29 Dec 2020, 14:42:14
+[2020.12.29-14.42.14:550][275]CompilerResultsLog: Parsing headers for TurnBasedStrategyCEditor
+[2020.12.29-14.42.14:550][275]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\TurnBasedStrategyC.uproject" "D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\TurnBasedStrategyCEditor\Development\TurnBasedStrategyCEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.29-14.42.14:550][275]CompilerResultsLog: Error: D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Source/TurnBasedStrategyC/TurnBasedStrategyCGrid.h(59)  : LogCompile: Error: BlueprintReadWrite should not be used on private members
+[2020.12.29-14.42.14:550][275]CompilerResultsLog: Error: D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Source/TurnBasedStrategyC/TurnBasedStrategyCGrid.h(64)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2020.12.29-14.42.14:550][275]CompilerResultsLog: Error: D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Source/TurnBasedStrategyC/TurnBasedStrategyCGrid.h(66)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2020.12.29-14.42.14:550][275]CompilerResultsLog: Error: D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Source/TurnBasedStrategyC/TurnBasedStrategyCGrid.h(68)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2020.12.29-14.42.14:550][275]CompilerResultsLog: Error: D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Source/TurnBasedStrategyC/TurnBasedStrategyCGrid.h(70)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2020.12.29-14.42.14:551][275]CompilerResultsLog: Error: D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Source/TurnBasedStrategyC/TurnBasedStrategyCGrid.h(73)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2020.12.29-14.42.14:551][275]CompilerResultsLog: Error: D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Source/TurnBasedStrategyC/TurnBasedStrategyCGrid.h(75)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2020.12.29-14.42.14:551][275]CompilerResultsLog: Error: D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Source/TurnBasedStrategyC/TurnBasedStrategyCGrid.h(77)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2020.12.29-14.42.14:551][275]CompilerResultsLog: Error: D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Source/TurnBasedStrategyC/TurnBasedStrategyCGrid.h(79)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2020.12.29-14.42.14:551][275]LogMainFrame: MainFrame: Module compiling took 11.348 seconds
+[2020.12.29-14.42.14:551][275]Warning: HotReload failed, recompile failed
+[2020.12.29-14.42.41:962][910]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-14.42.41:974][910]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-14.43.37:581][180]Candidate modules for hot reload:
+[2020.12.29-14.43.37:581][180]  TurnBasedStrategyC
+[2020.12.29-14.43.37:582][180]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,9246 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.29-14.43.37:583][180]Warning: Starting HotReload took  0.0s.
+[2020.12.29-14.44.01:363][587]CompilerResultsLog: New page: Compilation - 29 Dec 2020, 14:44:01
+[2020.12.29-14.44.01:364][587]CompilerResultsLog: Parsing headers for TurnBasedStrategyCEditor
+[2020.12.29-14.44.01:364][587]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\TurnBasedStrategyC.uproject" "D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\TurnBasedStrategyCEditor\Development\TurnBasedStrategyCEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.29-14.44.01:364][587]CompilerResultsLog: Reflection code generated for TurnBasedStrategyCEditor in 9.6002522 seconds
+[2020.12.29-14.44.01:364][587]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.29-14.44.01:364][587]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.29-14.44.01:364][587]CompilerResultsLog: Building 6 actions with 8 processes...
+[2020.12.29-14.44.01:364][587]CompilerResultsLog:   [1/6] TurnBasedStrategyC.init.gen.cpp
+[2020.12.29-14.44.01:364][587]CompilerResultsLog:   c1xx: error C3859: Failed to create virtual memory for PCH
+[2020.12.29-14.44.01:364][587]CompilerResultsLog:   c1xx: note: the system returned code 1455: The paging file is too small for this operation to complete.
+[2020.12.29-14.44.01:364][587]CompilerResultsLog: 
+[2020.12.29-14.44.01:364][587]CompilerResultsLog: 
+[2020.12.29-14.44.01:364][587]CompilerResultsLog:   c1xx: note: please visit https://aka.ms/pch-help for more details
+[2020.12.29-14.44.01:364][587]CompilerResultsLog:   c1xx: fatal error C1076: compiler limit: internal heap limit reached
+[2020.12.29-14.44.01:364][587]CompilerResultsLog:   [2/6] TurnBasedStrategyCGrid.cpp
+[2020.12.29-14.44.01:364][587]CompilerResultsLog:   [3/6] TurnBasedStrategyCGrid.gen.cpp
+[2020.12.29-14.44.01:364][587]LogMainFrame: MainFrame: Module compiling took 23.794 seconds
+[2020.12.29-14.44.01:364][587]Warning: HotReload failed, recompile failed
+[2020.12.29-14.44.14:784][368]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-14.44.14:794][368]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-14.44.24:498][524]Candidate modules for hot reload:
+[2020.12.29-14.44.24:499][524]  TurnBasedStrategyC
+[2020.12.29-14.44.24:499][524]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,5079 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.29-14.44.24:501][524]Warning: Starting HotReload took  0.0s.
+[2020.12.29-14.44.28:634][737]CompilerResultsLog: New page: Compilation - 29 Dec 2020, 14:44:28
+[2020.12.29-14.44.28:634][737]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.29-14.44.28:634][737]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.29-14.44.28:634][737]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.12.29-14.44.28:634][737]CompilerResultsLog:   [1/4] TurnBasedStrategyC.init.gen.cpp
+[2020.12.29-14.44.28:634][737]CompilerResultsLog:   [2/4] UE4Editor-TurnBasedStrategyC-5079.lib
+[2020.12.29-14.44.28:634][737]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-5079.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-5079.exp
+[2020.12.29-14.44.28:635][737]CompilerResultsLog:   [3/4] UE4Editor-TurnBasedStrategyC-5079.dll
+[2020.12.29-14.44.28:635][737]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-5079.suppressed.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-5079.suppressed.exp
+[2020.12.29-14.44.28:635][737]CompilerResultsLog: Error:   TurnBasedStrategyCGrid.cpp.obj : error LNK2019: unresolved external symbol "public: void __cdecl ATurnBasedStrategyCGrid::CreateLine(struct FVector,struct FVector,float,struct FVector &,int &)" (?CreateLine@ATurnBasedStrategyCGrid@@QEAAXUFVector@@0MAEAU2@AEAH@Z) referenced in function "public: static void __cdecl ATurnBasedStrategyCGrid::execCreateLine(class UObject *,struct FFrame &,void * const)" (?execCreateLine@ATurnBasedStrategyCGrid@@SAXPEAVUObject@@AEAUFFrame@@QEAX@Z)
+[2020.12.29-14.44.28:635][737]CompilerResultsLog: Error:   TurnBasedStrategyCGrid.gen.cpp.obj : error LNK2001: unresolved external symbol "public: void __cdecl ATurnBasedStrategyCGrid::CreateLine(struct FVector,struct FVector,float,struct FVector &,int &)" (?CreateLine@ATurnBasedStrategyCGrid@@QEAAXUFVector@@0MAEAU2@AEAH@Z)
+[2020.12.29-14.44.28:635][737]CompilerResultsLog: Error:   TurnBasedStrategyCGrid.cpp.obj : error LNK2019: unresolved external symbol "public: float const __cdecl ATurnBasedStrategyCGrid::GridWidth(void)" (?GridWidth@ATurnBasedStrategyCGrid@@QEAA?BMXZ) referenced in function "public: static void __cdecl ATurnBasedStrategyCGrid::execGridWidth(class UObject *,struct FFrame &,void * const)" (?execGridWidth@ATurnBasedStrategyCGrid@@SAXPEAVUObject@@AEAUFFrame@@QEAX@Z)
+[2020.12.29-14.44.28:635][737]CompilerResultsLog: Error:   TurnBasedStrategyCGrid.gen.cpp.obj : error LNK2001: unresolved external symbol "public: float const __cdecl ATurnBasedStrategyCGrid::GridWidth(void)" (?GridWidth@ATurnBasedStrategyCGrid@@QEAA?BMXZ)
+[2020.12.29-14.44.28:635][737]CompilerResultsLog: Error:   TurnBasedStrategyCGrid.cpp.obj : error LNK2019: unresolved external symbol "public: float const __cdecl ATurnBasedStrategyCGrid::GridHeight(void)" (?GridHeight@ATurnBasedStrategyCGrid@@QEAA?BMXZ) referenced in function "public: static void __cdecl ATurnBasedStrategyCGrid::execGridHeight(class UObject *,struct FFrame &,void * const)" (?execGridHeight@ATurnBasedStrategyCGrid@@SAXPEAVUObject@@AEAUFFrame@@QEAX@Z)
+[2020.12.29-14.44.28:635][737]CompilerResultsLog: Error:   TurnBasedStrategyCGrid.gen.cpp.obj : error LNK2001: unresolved external symbol "public: float const __cdecl ATurnBasedStrategyCGrid::GridHeight(void)" (?GridHeight@ATurnBasedStrategyCGrid@@QEAA?BMXZ)
+[2020.12.29-14.44.28:635][737]CompilerResultsLog: Error:   TurnBasedStrategyCGrid.cpp.obj : error LNK2019: unresolved external symbol "public: void __cdecl ATurnBasedStrategyCGrid::CreateMaterialInstance(struct FLinearColor,float)" (?CreateMaterialInstance@ATurnBasedStrategyCGrid@@QEAAXUFLinearColor@@M@Z) referenced in function "public: static void __cdecl ATurnBasedStrategyCGrid::execCreateMaterialInstance(class UObject *,struct FFrame &,void * const)" (?execCreateMaterialInstance@ATurnBasedStrategyCGrid@@SAXPEAVUObject@@AEAUFFrame@@QEAX@Z)
+[2020.12.29-14.44.28:635][737]CompilerResultsLog: Error:   TurnBasedStrategyCGrid.gen.cpp.obj : error LNK2001: unresolved external symbol "public: void __cdecl ATurnBasedStrategyCGrid::CreateMaterialInstance(struct FLinearColor,float)" (?CreateMaterialInstance@ATurnBasedStrategyCGrid@@QEAAXUFLinearColor@@M@Z)
+[2020.12.29-14.44.28:635][737]CompilerResultsLog: Error:   D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Binaries\Win64\UE4Editor-TurnBasedStrategyC-5079.dll : fatal error LNK1120: 4 unresolved externals
+[2020.12.29-14.44.28:635][737]LogMainFrame: MainFrame: Module compiling took 4.150 seconds
+[2020.12.29-14.44.28:635][737]Warning: HotReload failed, recompile failed
+[2020.12.29-14.46.00:821][800]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-14.46.00:828][800]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-14.46.01:497][838]Candidate modules for hot reload:
+[2020.12.29-14.46.01:497][838]  TurnBasedStrategyC
+[2020.12.29-14.46.01:498][838]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,7094 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.29-14.46.01:499][838]Warning: Starting HotReload took  0.0s.
+[2020.12.29-14.46.15:291][647]CompilerResultsLog: New page: Compilation - 29 Dec 2020, 14:46:15
+[2020.12.29-14.46.15:291][647]CompilerResultsLog: Parsing headers for TurnBasedStrategyCEditor
+[2020.12.29-14.46.15:291][647]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\TurnBasedStrategyC.uproject" "D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\TurnBasedStrategyCEditor\Development\TurnBasedStrategyCEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.29-14.46.15:291][647]CompilerResultsLog: Reflection code generated for TurnBasedStrategyCEditor in 9.5777348 seconds
+[2020.12.29-14.46.15:292][647]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.29-14.46.15:292][647]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.29-14.46.15:292][647]CompilerResultsLog: Building 6 actions with 8 processes...
+[2020.12.29-14.46.15:292][647]CompilerResultsLog:   [1/6] TurnBasedStrategyC.init.gen.cpp
+[2020.12.29-14.46.15:292][647]CompilerResultsLog:   c1xx: error C3859: Failed to create virtual memory for PCH
+[2020.12.29-14.46.15:292][647]CompilerResultsLog:   c1xx: note: the system returned code 1455: The paging file is too small for this operation to complete.
+[2020.12.29-14.46.15:292][647]CompilerResultsLog: 
+[2020.12.29-14.46.15:292][647]CompilerResultsLog: 
+[2020.12.29-14.46.15:292][647]CompilerResultsLog:   c1xx: note: please visit https://aka.ms/pch-help for more details
+[2020.12.29-14.46.15:292][647]CompilerResultsLog:   c1xx: fatal error C1076: compiler limit: internal heap limit reached
+[2020.12.29-14.46.15:292][647]CompilerResultsLog:   [2/6] TurnBasedStrategyCGrid.cpp
+[2020.12.29-14.46.15:292][647]CompilerResultsLog:   [3/6] TurnBasedStrategyCGrid.gen.cpp
+[2020.12.29-14.46.15:292][647]LogMainFrame: MainFrame: Module compiling took 13.807 seconds
+[2020.12.29-14.46.15:292][647]Warning: HotReload failed, recompile failed
+[2020.12.29-14.46.23:234][111]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-14.46.23:242][111]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-14.46.24:185][166]Candidate modules for hot reload:
+[2020.12.29-14.46.24:185][166]  TurnBasedStrategyC
+[2020.12.29-14.46.24:185][166]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,8292 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.29-14.46.24:187][166]Warning: Starting HotReload took  0.0s.
+[2020.12.29-14.46.28:605][402]CompilerResultsLog: New page: Compilation - 29 Dec 2020, 14:46:28
+[2020.12.29-14.46.28:606][402]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.29-14.46.28:606][402]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.29-14.46.28:606][402]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.12.29-14.46.28:606][402]CompilerResultsLog:   [1/4] TurnBasedStrategyC.init.gen.cpp
+[2020.12.29-14.46.28:606][402]CompilerResultsLog:   [2/4] UE4Editor-TurnBasedStrategyC-8292.lib
+[2020.12.29-14.46.28:606][402]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-8292.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-8292.exp
+[2020.12.29-14.46.28:606][402]CompilerResultsLog:   [3/4] UE4Editor-TurnBasedStrategyC-8292.dll
+[2020.12.29-14.46.28:606][402]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-8292.suppressed.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-8292.suppressed.exp
+[2020.12.29-14.46.28:606][402]CompilerResultsLog:   [4/4] TurnBasedStrategyCEditor.target
+[2020.12.29-14.46.28:606][402]CompilerResultsLog: Total time in Parallel executor: 2.58 seconds
+[2020.12.29-14.46.28:606][402]CompilerResultsLog: Total execution time: 4.29 seconds
+[2020.12.29-14.46.28:606][402]LogMainFrame: MainFrame: Module compiling took 4.433 seconds
+[2020.12.29-14.46.28:686][402]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.12.29-14.46.31:534][402]LogContentBrowser: Native class hierarchy updated for 'TurnBasedStrategyC' in 0.0009 seconds. Added 4 classes and 2 folders.
+[2020.12.29-14.46.31:538][402]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.29-14.46.31:654][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.12.29-14.46.31:679][402]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 3021 classes and 722 folders.
+[2020.12.29-14.46.31:679][402]Display: HotReload took  7.5s.
+[2020.12.29-14.46.35:065][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Grid.Grid
+[2020.12.29-14.51.19:270][951]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-14.51.19:279][951]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-14.51.19:287][951]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.12.29-14.51.19:287][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.29-14.51.20:547][  1]Candidate modules for hot reload:
+[2020.12.29-14.51.20:547][  1]  TurnBasedStrategyC
+[2020.12.29-14.51.20:547][  1]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,8215 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.29-14.51.20:559][  1]Warning: Starting HotReload took  0.0s.
+[2020.12.29-14.51.27:117][378]CompilerResultsLog: New page: Compilation - 29 Dec 2020, 14:51:27
+[2020.12.29-14.51.27:117][378]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.29-14.51.27:117][378]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.29-14.51.27:117][378]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.12.29-14.51.27:117][378]CompilerResultsLog:   [1/4] TurnBasedStrategyCGrid.cpp
+[2020.12.29-14.51.27:117][378]CompilerResultsLog:   [2/4] UE4Editor-TurnBasedStrategyC-8215.lib
+[2020.12.29-14.51.27:117][378]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-8215.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-8215.exp
+[2020.12.29-14.51.27:117][378]CompilerResultsLog:   [3/4] UE4Editor-TurnBasedStrategyC-8215.dll
+[2020.12.29-14.51.27:117][378]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-8215.suppressed.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-8215.suppressed.exp
+[2020.12.29-14.51.27:117][378]CompilerResultsLog:   [4/4] TurnBasedStrategyCEditor.target
+[2020.12.29-14.51.27:117][378]CompilerResultsLog: Total time in Parallel executor: 3.81 seconds
+[2020.12.29-14.51.27:117][378]CompilerResultsLog: Total execution time: 6.26 seconds
+[2020.12.29-14.51.27:117][378]LogMainFrame: MainFrame: Module compiling took 6.594 seconds
+[2020.12.29-14.51.27:260][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.12.29-14.51.31:705][378]LogHotReload: Re-instancing TurnBasedStrategyCGrid after hot-reload.
+[2020.12.29-14.51.31:949][378]LogContentBrowser: Native class hierarchy updated for 'TurnBasedStrategyC' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2020.12.29-14.51.31:954][378]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.29-14.51.32:119][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.12.29-14.51.32:136][378]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 3021 classes and 722 folders.
+[2020.12.29-14.51.32:136][378]Display: HotReload took 11.6s.
+[2020.12.29-14.51.35:702][550]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Grid.Grid
+[2020.12.29-14.51.36:522][550]LogActor: Warning: Grid_C /Engine/Transient.World_10:PersistentLevel.Grid_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.12.29-14.51.55:083][632]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-14.51.55:093][632]LogSlate: Window 'Grid' being destroyed
+[2020.12.29-14.51.55:100][632]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.12.29-14.51.55:100][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.29-14.51.57:833][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.12.29-14.59.48:401][304]LogTemp: Resetting audio stream to device id 
+[2020.12.29-14.59.48:414][304]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.29-14.59.48:414][304]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.29-14.59.48:414][304]LogAudioMixer: Display: Is Default: Yes
+[2020.12.29-14.59.48:414][304]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.29-14.59.48:414][304]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.29-14.59.48:414][304]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.29-14.59.48:414][304]LogAudioMixer: Display: Channel Order:
+[2020.12.29-14.59.48:414][304]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.29-14.59.48:414][304]LogAudioMixer: Display: 1: FrontRight
+[2020.12.29-14.59.49:253][305]LogTemp: Resetting audio stream to device id 
+[2020.12.29-14.59.49:356][305]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.29-14.59.49:356][305]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.29-14.59.49:356][305]LogAudioMixer: Display: Is Default: Yes
+[2020.12.29-14.59.49:356][305]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.29-14.59.49:356][305]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.29-14.59.49:356][305]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.29-14.59.49:356][305]LogAudioMixer: Display: Channel Order:
+[2020.12.29-14.59.49:356][305]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.29-14.59.49:356][305]LogAudioMixer: Display: 1: FrontRight
+[2020.12.29-15.12.48:147][ 48]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TopDownCPP/Blueprints/M_Grid.M_Grid
+[2020.12.29-15.12.48:161][ 48]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.12.48:628][ 48]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.12.48:651][ 48]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.12.29-15.12.48:652][ 48]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.29-15.12.48:652][ 48]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.29-15.12.48:652][ 48]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.29-15.12.50:599][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.29-15.12.50:828][125]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.12.51:126][134]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.12.29-15.12.51:150][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.12.29-15.12.51:194][137]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.12.29-15.12.51:881][167]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.12.29-15.12.52:077][175]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.29-15.12.52:145][177]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.12.52:220][177]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.12.52:260][177]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.12.52:330][178]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.12.29-15.12.52:378][178]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.12.29-15.12.52:625][186]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.12.29-15.12.52:954][197]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.12.29-15.12.53:370][212]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.12.29-15.12.53:527][218]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.29-15.12.53:627][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.29-15.12.53:767][228]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.12.29-15.12.55:368][273]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.12.29-15.12.55:399][274]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.12.29-15.12.55:446][275]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.12.29-15.12.56:765][306]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.12.29-15.12.56:765][306]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.12.29-15.12.56:969][312]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.12.29-15.12.58:093][342]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.12.29-15.12.58:137][343]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.12.29-15.12.58:238][346]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.12.29-15.12.58:519][355]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.12.29-15.12.59:491][378]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.29-15.13.00:070][392]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.29-15.13.00:455][400]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.29-15.13.01:026][414]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.29-15.13.02:722][464]MaterialEditorStats: Base pass shader: 73 instructions
+[2020.12.29-15.13.02:722][464]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 94 instructions
+[2020.12.29-15.13.02:722][464]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.29-15.13.02:722][464]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.29-15.13.05:655][636]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.13.05:677][636]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.29-15.13.05:677][636]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.29-15.13.05:677][636]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.29-15.13.05:677][636]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.12.29-15.13.05:677][636]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.12.29-15.13.06:019][650]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.29-15.13.06:128][654]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.29-15.13.06:354][662]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.29-15.13.06:367][663]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.12.29-15.13.07:471][705]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.12.29-15.13.07:700][714]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.29-15.13.07:819][719]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.29-15.13.08:831][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.12.29-15.13.09:059][765]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.13.09:090][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.12.29-15.13.09:090][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.12.29-15.13.09:108][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.12.29-15.13.10:035][797]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.12.29-15.13.10:253][806]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.12.29-15.13.10:274][807]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.12.29-15.13.10:274][807]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.12.29-15.13.10:419][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.29-15.13.10:611][823]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.12.29-15.13.10:846][833]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.29-15.13.10:869][834]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.12.29-15.13.11:709][868]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.12.29-15.13.12:030][882]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.12.29-15.13.12:126][886]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.12.29-15.13.13:273][928]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.12.29-15.13.13:462][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.12.29-15.13.13:772][946]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.12.29-15.13.14:699][973]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.12.29-15.13.15:070][981]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.12.29-15.13.15:264][986]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.12.29-15.13.15:537][993]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.12.29-15.13.16:372][ 12]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.29-15.13.16:887][ 25]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.29-15.13.17:350][ 36]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.29-15.13.17:572][ 42]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.12.29-15.13.18:317][ 59]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.12.29-15.13.18:879][ 74]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.29-15.13.19:183][ 83]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.29-15.13.19:306][ 87]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.12.29-15.13.19:358][ 88]MaterialEditorStats: Base pass shader: 73 instructions
+[2020.12.29-15.13.19:359][ 88]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 94 instructions
+[2020.12.29-15.13.19:359][ 88]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.29-15.13.19:359][ 88]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.29-15.13.22:379][181]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.13.22:421][182]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.29-15.13.22:421][182]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.29-15.13.22:421][182]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.29-15.13.22:421][182]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.12.29-15.13.22:820][199]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.12.29-15.13.22:914][202]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.29-15.13.23:092][209]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.29-15.13.23:117][210]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.12.29-15.13.24:283][254]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.12.29-15.13.24:388][258]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.12.29-15.13.24:388][258]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.12.29-15.13.24:579][267]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.13.25:682][307]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.29-15.13.25:736][309]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.12.29-15.13.25:887][316]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.12.29-15.13.26:025][322]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.12.29-15.13.26:098][325]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.12.29-15.13.26:482][341]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.29-15.13.26:629][347]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.12.29-15.13.26:766][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.12.29-15.13.27:817][393]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.12.29-15.13.28:085][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.12.29-15.13.28:171][408]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.12.29-15.13.29:303][453]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.12.29-15.13.29:395][457]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.12.29-15.13.29:698][469]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.12.29-15.13.30:797][512]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.12.29-15.13.31:251][520]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.12.29-15.13.31:398][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.12.29-15.13.31:535][528]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.29-15.13.32:699][556]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.29-15.13.33:049][567]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.29-15.13.33:233][572]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.29-15.13.33:660][582]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.29-15.13.35:483][624]MaterialEditorStats: Base pass shader: 77 instructions
+[2020.12.29-15.13.35:483][624]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2020.12.29-15.13.35:483][624]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.29-15.13.35:483][624]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.29-15.13.52:818][754]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.13.52:839][754]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.29-15.13.52:839][754]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.29-15.13.52:839][754]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.29-15.13.52:839][754]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.12.29-15.13.52:839][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.29-15.13.52:866][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.29-15.13.52:891][754]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.13.52:921][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.29-15.13.53:157][759]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.12.29-15.13.53:188][760]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.12.29-15.13.53:394][768]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.12.29-15.13.53:425][769]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.12.29-15.13.53:571][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.12.29-15.13.53:597][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.12.29-15.13.54:146][798]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.12.29-15.13.54:146][798]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.29-15.13.55:200][836]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.12.29-15.13.55:322][841]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.12.29-15.13.55:604][852]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.12.29-15.13.56:665][888]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.12.29-15.13.57:077][902]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.12.29-15.13.57:077][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.12.29-15.13.57:942][930]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.12.29-15.13.58:215][939]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.12.29-15.13.58:384][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.12.29-15.13.58:476][947]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.12.29-15.13.59:250][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.12.29-15.13.59:976][995]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.12.29-15.14.00:170][  4]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.29-15.14.00:509][ 19]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.29-15.14.01:200][ 46]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.29-15.14.01:586][ 60]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.29-15.14.01:642][ 62]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.29-15.14.02:028][ 77]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.29-15.14.06:206][300]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.12.29-15.14.06:206][300]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2020.12.29-15.14.06:206][300]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.29-15.14.06:206][300]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.29-15.14.06:398][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.12.29-15.14.06:403][303]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.071
+[2020.12.29-15.14.06:410][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownCPP/Blueprints/M_Grid] ([1] browsable assets)...
+[2020.12.29-15.14.06:442][303]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownCPP/Blueprints/M_Grid.M_Grid]
+[2020.12.29-15.14.06:442][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownCPP/Blueprints/M_Grid]
+[2020.12.29-15.14.06:454][303]LogSavePackage: Moving 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/M_Grid_Auto14E31AE8C46A21AABDFB4E78A97D1A5DF.tmp' to 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Autosaves/Game/TopDownCPP/Blueprints/M_Grid_Auto1.uasset'
+[2020.12.29-15.14.06:455][303]LogFileHelpers: Auto-saving content packages took 0.052
+[2020.12.29-15.14.10:886][545]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.14.10:914][545]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.29-15.14.10:914][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.29-15.14.10:914][545]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.29-15.14.10:914][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.12.29-15.14.10:914][545]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.29-15.14.10:941][545]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.14.11:200][551]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.12.29-15.14.11:200][551]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.12.29-15.14.11:422][560]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.12.29-15.14.11:619][568]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.12.29-15.14.12:297][592]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.29-15.14.12:430][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.29-15.14.12:529][601]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.29-15.14.12:575][603]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.12.29-15.14.12:676][607]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.12.29-15.14.12:899][616]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.29-15.14.13:237][630]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.12.29-15.14.13:261][631]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.12.29-15.14.14:320][669]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.12.29-15.14.14:616][680]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.12.29-15.14.14:746][685]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.12.29-15.14.15:851][726]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.12.29-15.14.15:988][731]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.12.29-15.14.16:333][743]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.12.29-15.14.17:128][772]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.29-15.14.17:351][780]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.29-15.14.17:443][784]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.29-15.14.17:679][794]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.29-15.14.18:396][822]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.12.29-15.14.19:021][845]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.29-15.14.19:444][861]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.29-15.14.19:700][868]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.12.29-15.14.21:844][912]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.12.29-15.14.21:844][912]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2020.12.29-15.14.21:844][912]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.29-15.14.21:844][912]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.29-15.14.54:729][373]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.14.54:749][373]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.14.54:774][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.29-15.14.54:774][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.29-15.14.54:774][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.29-15.14.54:774][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.12.29-15.14.55:493][406]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.12.29-15.14.55:494][406]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.12.29-15.14.55:731][416]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.29-15.14.55:754][417]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.12.29-15.14.57:080][463]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.12.29-15.14.57:156][466]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.12.29-15.14.57:202][468]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.12.29-15.14.58:532][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.12.29-15.14.58:714][523]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.12.29-15.14.59:010][535]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.12.29-15.14.59:886][566]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.12.29-15.15.00:044][572]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.12.29-15.15.00:157][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.12.29-15.15.00:294][576]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.29-15.15.01:262][608]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.29-15.15.01:903][631]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.12.29-15.15.02:201][641]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.29-15.15.02:510][653]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.29-15.15.03:326][685]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.29-15.15.03:345][685]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.29-15.15.03:345][685]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.29-15.15.03:354][685]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.15.03:391][685]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.29-15.15.03:417][685]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.15.03:458][686]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.12.29-15.15.03:567][689]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.12.29-15.15.04:425][716]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.12.29-15.15.04:509][719]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.12.29-15.15.04:656][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.29-15.15.04:820][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.12.29-15.15.04:997][739]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.12.29-15.15.05:193][747]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.12.29-15.15.05:258][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.12.29-15.15.05:302][752]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.12.29-15.15.05:561][763]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.12.29-15.15.05:732][770]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.12.29-15.15.05:792][771]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.29-15.15.05:811][771]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.15.05:849][771]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.15.05:892][771]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.29-15.15.05:925][771]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.29-15.15.05:947][771]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.15.06:208][777]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.12.29-15.15.06:418][783]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.12.29-15.15.06:682][793]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.12.29-15.15.07:404][818]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.12.29-15.15.07:653][827]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.12.29-15.15.07:828][833]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.12.29-15.15.07:979][838]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.12.29-15.15.08:065][841]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.29-15.15.08:247][848]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.12.29-15.15.08:329][851]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.29-15.15.08:624][863]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.12.29-15.15.08:777][869]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.12.29-15.15.09:919][908]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.12.29-15.15.10:112][914]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.12.29-15.15.10:250][919]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.12.29-15.15.11:279][948]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.12.29-15.15.11:444][953]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.12.29-15.15.11:674][960]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.12.29-15.15.12:411][980]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.12.29-15.15.12:654][987]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.29-15.15.12:683][988]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.12.29-15.15.13:012][996]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.29-15.15.13:871][ 16]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.12.29-15.15.14:424][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.12.29-15.15.14:789][ 43]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.29-15.15.15:027][ 51]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.29-15.15.16:579][109]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.12.29-15.15.16:579][109]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2020.12.29-15.15.16:579][109]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.29-15.15.16:579][109]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.29-15.15.16:896][127]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.29-15.15.16:906][127]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.29-15.15.16:906][127]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.12.29-15.15.16:906][127]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.29-15.15.16:906][127]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.29-15.15.16:913][127]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.15.16:950][127]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.29-15.15.16:969][127]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.15.16:991][127]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.29-15.15.17:718][151]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.12.29-15.15.17:828][155]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.12.29-15.15.17:954][160]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.12.29-15.15.17:998][162]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.12.29-15.15.18:778][192]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.12.29-15.15.18:915][197]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.29-15.15.18:965][199]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.12.29-15.15.19:093][204]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.12.29-15.15.19:144][206]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.12.29-15.15.19:306][213]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.29-15.15.19:605][225]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.12.29-15.15.19:784][232]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.12.29-15.15.20:614][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.12.29-15.15.20:913][271]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.12.29-15.15.21:087][278]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.12.29-15.15.22:180][320]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.12.29-15.15.22:208][321]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.12.29-15.15.22:600][338]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.12.29-15.15.23:290][365]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.12.29-15.15.23:465][371]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.12.29-15.15.23:597][376]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.29-15.15.23:978][391]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.29-15.15.24:722][419]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.29-15.15.25:329][441]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.29-15.15.25:866][460]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.29-15.15.25:892][461]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.12.29-15.15.27:390][520]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.12.29-15.15.27:390][520]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2020.12.29-15.15.27:390][520]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.29-15.15.27:390][520]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.29-15.15.53:335][ 24]LogMaterialEditor: Saving and Compiling material M_Grid
+[2020.12.29-15.15.53:870][ 24]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.15.53:959][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.29-15.15.53:959][ 24]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.29-15.15.53:959][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.29-15.15.53:959][ 24]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.12.29-15.15.53:995][ 24]LogMaterial: Display: Missing cached shader map for material M_Grid, compiling. 
+[2020.12.29-15.15.54:092][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.12.29-15.15.54:120][ 24]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 45
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2020.12.29-15.15.57:607][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.12.29-15.15.57:608][ 24]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2020.12.29-15.15.57:608][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2020.12.29-15.15.57:608][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.12.29-15.15.57:608][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.12.29-15.15.57:608][ 24]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.12.29-15.15.57:608][ 24]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.12.29-15.15.57:608][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.12.29-15.15.57:612][ 24]TextureStreamingBuild: Display: Compiling optional shaders took 3.515 seconds.
+[2020.12.29-15.15.57:652][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.12.29-15.16.01:941][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.12.29-15.16.01:941][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.12.29-15.16.01:941][ 24]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.29-15.16.01:941][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.29-15.16.01:941][ 24]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.29-15.16.02:012][ 24]LogSavePackage: Moving 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/M_GridD84E91DE4D66362A7FEBD9BA9057AF54.tmp' to 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/TopDownCPP/Blueprints/M_Grid.uasset'
+[2020.12.29-15.16.02:053][ 24]AssetCheck: New page: Asset Save: M_Grid
+[2020.12.29-15.16.02:053][ 24]LogContentValidation: Display: Validating Material /Game/TopDownCPP/Blueprints/M_Grid.M_Grid
+[2020.12.29-15.16.13:353][691]LogSlate: Window 'M_Grid' being destroyed
+[2020.12.29-15.16.13:358][691]LogSlate: Window 'M_Grid' being destroyed
+[2020.12.29-15.16.13:387][691]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.12.29-15.16.13:387][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.29-15.53.02:308][264]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TopDownCPP/Blueprints/M_Grid.M_Grid
+[2020.12.29-15.53.02:315][264]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.12.29-15.53.02:497][264]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.12.29-15.53.02:527][264]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.12.29-15.53.02:553][264]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.29-15.53.02:553][264]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.29-15.53.02:553][264]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.29-15.53.02:553][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.12.29-15.53.02:562][264]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.29-15.53.03:472][295]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.12.29-15.53.03:527][297]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.12.29-15.53.03:795][308]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.12.29-15.53.03:820][309]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.12.29-15.53.05:218][359]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.12.29-15.53.05:370][365]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.12.29-15.53.05:395][366]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.12.29-15.53.06:422][407]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.12.29-15.53.06:587][417]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.12.29-15.53.06:845][429]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.12.29-15.53.07:576][462]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.12.29-15.53.07:806][473]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.12.29-15.53.07:825][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.12.29-15.53.08:108][488]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.12.29-15.53.09:013][525]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.12.29-15.53.09:274][538]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.12.29-15.53.09:665][556]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.12.29-15.53.09:791][562]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.29-15.53.10:188][582]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.29-15.53.10:959][615]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.12.29-15.53.11:193][624]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.29-15.53.11:235][626]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.29-15.53.11:333][630]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.12.29-15.53.11:333][630]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2020.12.29-15.53.11:333][630]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.29-15.53.11:333][630]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.29-15.58.21:539][743]LogMaterialEditor: Saving and Compiling material M_Grid
+[2020.12.29-15.58.21:616][743]LogSavePackage: Moving 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/M_GridDFE826184AA76EFF088FE2AB1B0BD447.tmp' to 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/TopDownCPP/Blueprints/M_Grid.uasset'
+[2020.12.29-15.58.21:648][743]AssetCheck: New page: Asset Save: M_Grid
+[2020.12.29-15.58.21:648][743]LogContentValidation: Display: Validating Material /Game/TopDownCPP/Blueprints/M_Grid.M_Grid
+[2020.12.29-15.58.22:873][815]LogSlate: Window 'M_Grid' being destroyed
+[2020.12.29-15.58.22:878][815]LogSlate: Window 'M_Grid' being destroyed
+[2020.12.29-15.58.22:906][815]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.12.29-15.58.22:906][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.29-15.58.24:906][921]Candidate modules for hot reload:
+[2020.12.29-15.58.24:906][921]  TurnBasedStrategyC
+[2020.12.29-15.58.24:906][921]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,1571 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.29-15.58.24:908][921]Warning: Starting HotReload took  0.1s.
+[2020.12.29-16.01.06:586][690]CompilerResultsLog: New page: Compilation - 29 Dec 2020, 16:01:06
+[2020.12.29-16.01.06:586][690]CompilerResultsLog: Parsing headers for TurnBasedStrategyCEditor
+[2020.12.29-16.01.06:586][690]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\TurnBasedStrategyC.uproject" "D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\TurnBasedStrategyCEditor\Development\TurnBasedStrategyCEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.29-16.01.06:586][690]CompilerResultsLog: Reflection code generated for TurnBasedStrategyCEditor in 11.8568214 seconds
+[2020.12.29-16.01.06:586][690]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.29-16.01.06:586][690]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.29-16.01.06:586][690]CompilerResultsLog: Building 6 actions with 8 processes...
+[2020.12.29-16.01.06:586][690]CompilerResultsLog:   [1/6] TurnBasedStrategyCGrid.cpp
+[2020.12.29-16.01.06:586][690]CompilerResultsLog:    D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Source\TurnBasedStrategyC\TurnBasedStrategyCGrid.cpp(15) : error C2248: 'UMaterialInstanceDynamic::UMaterialInstanceDynamic': cannot access private member declared in class 'UMaterialInstanceDynamic'
+[2020.12.29-16.01.06:586][690]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h(14): note: see declaration of 'UMaterialInstanceDynamic::UMaterialInstanceDynamic'
+[2020.12.29-16.01.06:586][690]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h(12): note: see declaration of 'UMaterialInstanceDynamic'
+[2020.12.29-16.01.06:586][690]CompilerResultsLog:    D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Source\TurnBasedStrategyC\TurnBasedStrategyCGrid.cpp(16) : error C2248: 'UMaterialInstanceDynamic::UMaterialInstanceDynamic': cannot access private member declared in class 'UMaterialInstanceDynamic'
+[2020.12.29-16.01.06:586][690]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h(14): note: see declaration of 'UMaterialInstanceDynamic::UMaterialInstanceDynamic'
+[2020.12.29-16.01.06:586][690]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h(12): note: see declaration of 'UMaterialInstanceDynamic'
+[2020.12.29-16.01.06:586][690]CompilerResultsLog:   [2/6] TurnBasedStrategyC.init.gen.cpp
+[2020.12.29-16.01.06:586][690]CompilerResultsLog:   [3/6] TurnBasedStrategyCGrid.gen.cpp
+[2020.12.29-16.01.06:586][690]LogMainFrame: MainFrame: Module compiling took 161.693 seconds
+[2020.12.29-16.01.06:587][690]Warning: HotReload failed, recompile failed
+[2020.12.29-16.02.11:518][374]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-16.02.11:522][374]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-16.02.12:389][423]Candidate modules for hot reload:
+[2020.12.29-16.02.12:389][423]  TurnBasedStrategyC
+[2020.12.29-16.02.12:390][423]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,3723 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.29-16.02.12:391][423]Warning: Starting HotReload took  0.0s.
+[2020.12.29-16.02.14:639][540]CompilerResultsLog: New page: Compilation - 29 Dec 2020, 16:02:14
+[2020.12.29-16.02.14:640][540]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.29-16.02.14:640][540]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.29-16.02.14:640][540]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.12.29-16.02.14:640][540]CompilerResultsLog:   [1/4] TurnBasedStrategyCGrid.cpp
+[2020.12.29-16.02.14:640][540]CompilerResultsLog:    D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Source\TurnBasedStrategyC\TurnBasedStrategyCGrid.cpp(15) : error C2248: 'UMaterialInstanceDynamic::UMaterialInstanceDynamic': cannot access private member declared in class 'UMaterialInstanceDynamic'
+[2020.12.29-16.02.14:640][540]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h(14): note: see declaration of 'UMaterialInstanceDynamic::UMaterialInstanceDynamic'
+[2020.12.29-16.02.14:640][540]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h(12): note: see declaration of 'UMaterialInstanceDynamic'
+[2020.12.29-16.02.14:640][540]CompilerResultsLog:    D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Source\TurnBasedStrategyC\TurnBasedStrategyCGrid.cpp(16) : error C2248: 'UMaterialInstanceDynamic::UMaterialInstanceDynamic': cannot access private member declared in class 'UMaterialInstanceDynamic'
+[2020.12.29-16.02.14:640][540]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h(14): note: see declaration of 'UMaterialInstanceDynamic::UMaterialInstanceDynamic'
+[2020.12.29-16.02.14:640][540]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h(12): note: see declaration of 'UMaterialInstanceDynamic'
+[2020.12.29-16.02.14:640][540]LogMainFrame: MainFrame: Module compiling took 2.263 seconds
+[2020.12.29-16.02.14:640][540]Warning: HotReload failed, recompile failed
+[2020.12.29-16.04.08:347][576]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-16.04.08:358][576]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-16.04.09:087][617]Candidate modules for hot reload:
+[2020.12.29-16.04.09:087][617]  TurnBasedStrategyC
+[2020.12.29-16.04.09:087][617]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,8799 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.29-16.04.09:089][617]Warning: Starting HotReload took  0.0s.
+[2020.12.29-16.04.22:738][415]CompilerResultsLog: New page: Compilation - 29 Dec 2020, 16:04:22
+[2020.12.29-16.04.22:739][415]CompilerResultsLog: Parsing headers for TurnBasedStrategyCEditor
+[2020.12.29-16.04.22:739][415]CompilerResultsLog:   Running UnrealHeaderTool "D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\TurnBasedStrategyC.uproject" "D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\TurnBasedStrategyCEditor\Development\TurnBasedStrategyCEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.29-16.04.22:739][415]CompilerResultsLog: Reflection code generated for TurnBasedStrategyCEditor in 9.5801489 seconds
+[2020.12.29-16.04.22:739][415]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.29-16.04.22:739][415]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.29-16.04.22:739][415]CompilerResultsLog: Building 5 actions with 8 processes...
+[2020.12.29-16.04.22:739][415]CompilerResultsLog:   [1/5] TurnBasedStrategyCGrid.gen.cpp
+[2020.12.29-16.04.22:739][415]CompilerResultsLog:   [2/5] TurnBasedStrategyCGrid.cpp
+[2020.12.29-16.04.22:739][415]CompilerResultsLog:   D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Source\TurnBasedStrategyC\TurnBasedStrategyCGrid.cpp(44) : warning C4701: potentially uninitialized local variable 'myMaterial' used
+[2020.12.29-16.04.22:739][415]CompilerResultsLog:    D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Source\TurnBasedStrategyC\TurnBasedStrategyCGrid.cpp(44)  : error C4703: potentially uninitialized local pointer variable 'myMaterial' used
+[2020.12.29-16.04.22:739][415]LogMainFrame: MainFrame: Module compiling took 13.665 seconds
+[2020.12.29-16.04.22:739][415]Warning: HotReload failed, recompile failed
+[2020.12.29-16.04.43:337][636]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-16.04.43:348][636]LogSlate: Window 'Message Log' being destroyed
+[2020.12.29-16.05.10:612][850]Candidate modules for hot reload:
+[2020.12.29-16.05.10:612][850]  TurnBasedStrategyC
+[2020.12.29-16.05.10:612][850]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,1947 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.29-16.05.10:614][850]Warning: Starting HotReload took  0.0s.
+[2020.12.29-16.05.15:510][125]CompilerResultsLog: New page: Compilation - 29 Dec 2020, 16:05:15
+[2020.12.29-16.05.15:510][125]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.29-16.05.15:510][125]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.29-16.05.15:510][125]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.12.29-16.05.15:510][125]CompilerResultsLog:   [1/4] TurnBasedStrategyCGrid.cpp
+[2020.12.29-16.05.15:510][125]CompilerResultsLog:   [2/4] UE4Editor-TurnBasedStrategyC-1947.lib
+[2020.12.29-16.05.15:510][125]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-1947.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-1947.exp
+[2020.12.29-16.05.15:510][125]CompilerResultsLog:   [3/4] UE4Editor-TurnBasedStrategyC-1947.dll
+[2020.12.29-16.05.15:510][125]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-1947.suppressed.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-1947.suppressed.exp
+[2020.12.29-16.05.15:510][125]CompilerResultsLog:   [4/4] TurnBasedStrategyCEditor.target
+[2020.12.29-16.05.15:510][125]CompilerResultsLog: Total time in Parallel executor: 3.16 seconds
+[2020.12.29-16.05.15:510][125]CompilerResultsLog: Total execution time: 4.78 seconds
+[2020.12.29-16.05.15:511][125]LogMainFrame: MainFrame: Module compiling took 4.911 seconds
+[2020.12.29-16.05.15:583][125]LogUObjectHash: Compacting FUObjectHashTables data took   9.51ms
+[2020.12.29-16.05.18:455][125]LogClass: Could not find existing class TurnBasedStrategyCGrid in package /Script/TurnBasedStrategyC for HotReload, assuming new class
+[2020.12.29-16.05.18:461][125]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.29-16.05.18:461][125]LogWindows: Windows GetLastError: The operation completed successfully. (0)

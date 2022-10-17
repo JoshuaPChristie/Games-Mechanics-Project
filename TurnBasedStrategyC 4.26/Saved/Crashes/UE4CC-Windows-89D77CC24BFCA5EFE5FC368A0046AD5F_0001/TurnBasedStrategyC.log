@@ -1,0 +1,1126 @@
+﻿Log file open, 12/30/20 11:32:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TurnBasedStrategyC
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.092599
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.30-11.32.37:693][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.30-11.32.37:693][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.30-11.32.37:694][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.30-11.32.37:694][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.30-11.32.37:694][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.30-11.32.37:694][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.30-11.32.37:694][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.30-11.32.37:694][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.30-11.32.37:694][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.30-11.32.37:694][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.30-11.32.37:694][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.30-11.32.37:694][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.30-11.32.37:694][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.30-11.32.37:697][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:697][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.30-11.32.37:697][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.30-11.32.37:697][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:697][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.30-11.32.37:697][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:697][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.30-11.32.37:697][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.30-11.32.37:697][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.30-11.32.37:697][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.30-11.32.37:697][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.30-11.32.37:697][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.30-11.32.37:697][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.30-11.32.37:697][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.30-11.32.37:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.30-11.32.37:699][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.30-11.32.37:699][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.30-11.32.37:699][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.30-11.32.37:704][  0]LogHAL: Display: Platform has ~ 16 GB [17039638528 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.30-11.32.37:704][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.30-11.32.37:704][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.30-11.32.37:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.30-11.32.37:705][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.30-11.32.37:706][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.30-11.32.37:707][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.30-11.32.37:707][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.30-11.32.37:707][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Config/Windows/Engine.ini]
+[2020.12.30-11.32.37:707][  0]LogInit: Computer: DESKTOP-54B9TDU
+[2020.12.30-11.32.37:707][  0]LogInit: User: joshp
+[2020.12.30-11.32.37:707][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.30-11.32.37:707][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.30-11.32.37:707][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.30-11.32.37:707][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.30-11.32.37:707][  0]LogMemory: Process Physical Memory: 105.53 MB used, 105.54 MB peak
+[2020.12.30-11.32.37:707][  0]LogMemory: Process Virtual Memory: 100.36 MB used, 100.36 MB peak
+[2020.12.30-11.32.37:707][  0]LogMemory: Physical Memory: 6805.41 MB used,  9444.86 MB free, 16250.27 MB total
+[2020.12.30-11.32.37:707][  0]LogMemory: Virtual Memory: 5137.62 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.12.30-11.32.37:713][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.30-11.32.37:758][  0]LogInit: Using OS detected language (en-US).
+[2020.12.30-11.32.37:758][  0]LogInit: Using OS detected locale (en-GB).
+[2020.12.30-11.32.37:760][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.30-11.32.38:076][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.30-11.32.38:114][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.30-11.32.38:114][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.30-11.32.38:429][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.30-11.32.38:429][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.30-11.32.38:429][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.30-11.32.38:429][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.30-11.32.38:538][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.12.30-11.32.38:538][  0]LogD3D11RHI:       4018/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.30-11.32.38:581][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.12.30-11.32.38:581][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.30-11.32.38:592][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.30-11.32.38:592][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.30-11.32.38:592][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.30-11.32.38:647][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.30-11.32.38:648][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.12.30-11.32.38:648][  0]LogWindows: EnumDisplayDevices:
+[2020.12.30-11.32.38:648][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.12.30-11.32.38:649][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.30-11.32.38:649][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.30-11.32.38:650][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.12.30-11.32.38:650][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.12.30-11.32.38:650][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.12.30-11.32.38:650][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.12.30-11.32.38:650][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.12.30-11.32.38:650][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.12.30-11.32.38:744][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.30-11.32.38:745][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.30-11.32.38:772][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.30-11.32.39:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.30-11.32.39:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.30-11.32.39:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.30-11.32.39:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.30-11.32.39:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.30-11.32.39:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.30-11.32.39:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.30-11.32.39:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.30-11.32.39:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.30-11.32.39:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.30-11.32.39:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.30-11.32.39:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.30-11.32.39:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.30-11.32.39:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.30-11.32.39:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.30-11.32.39:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.30-11.32.39:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.30-11.32.39:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.30-11.32.39:712][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.30-11.32.39:719][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.30-11.32.39:763][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Intermediate/Shaders/WorkingDirectory/28472/).
+[2020.12.30-11.32.39:763][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joshp/AppData/Local/Temp/UnrealShaderWorkingDir/B938CAF0472232EE3B36F4BA1B50E2E6/'.
+[2020.12.30-11.32.39:764][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.30-11.32.39:764][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.30-11.32.39:764][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.30-11.32.40:798][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.30-11.32.40:885][  0]LogDerivedDataCache: Loaded boot cache 0.09s 82MB C:/Users/joshp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.12.30-11.32.40:885][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joshp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.12.30-11.32.40:886][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.30-11.32.40:886][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.30-11.32.40:886][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.30-11.32.40:886][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.30-11.32.40:898][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.30-11.32.40:898][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.30-11.32.40:898][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.30-11.32.40:900][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joshp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.30-11.32.40:900][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.30-11.32.40:900][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.30-11.32.40:935][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.30-11.32.40:938][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.30-11.32.40:939][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.30-11.32.41:015][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2020.12.30-11.32.41:451][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.30-11.32.41:672][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.30-11.32.41:672][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.30-11.32.41:672][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.30-11.32.41:672][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.30-11.32.41:672][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.30-11.32.41:686][  0]LogNetVersion: TurnBasedStrategyC 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 900694456)
+[2020.12.30-11.32.43:310][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.116552 seconds
+[2020.12.30-11.32.43:324][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.12.30-11.32.43:324][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.12.30-11.32.43:324][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.30-11.32.43:943][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.30-11.32.43:951][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.30-11.32.44:896][  0]SourceControl: Source control is disabled
+[2020.12.30-11.32.44:896][  0]SourceControl: Source control is disabled
+[2020.12.30-11.32.44:900][  0]SourceControl: Source control is disabled
+[2020.12.30-11.32.44:903][  0]SourceControl: Source control is disabled
+[2020.12.30-11.32.44:906][  0]SourceControl: Source control is disabled
+[2020.12.30-11.32.45:088][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.30-11.32.45:113][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.30-11.32.45:113][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.30-11.32.45:246][  0]LogOcInput: OculusInput pre-init called
+[2020.12.30-11.32.45:262][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.30-11.32.45:262][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.30-11.32.45:375][  0]LogEngine: Initializing Engine...
+[2020.12.30-11.32.45:376][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.30-11.32.45:378][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.30-11.32.45:863][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.30-11.32.45:876][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.30-11.32.45:899][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-11.32.45:899][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-11.32.45:899][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-11.32.45:899][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-11.32.45:899][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-11.32.45:899][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-11.32.45:899][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-11.32.45:899][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-11.32.45:900][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-11.32.45:900][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-11.32.45:914][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.30-11.32.45:914][  0]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-11.32.45:914][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.12.30-11.32.45:914][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.30-11.32.45:914][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.30-11.32.45:914][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.30-11.32.45:914][  0]LogAudioMixer: Display: Channel Order:
+[2020.12.30-11.32.45:914][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-11.32.45:914][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-11.32.46:020][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-11.32.46:026][  0]LogInit: FAudioDevice initialized.
+[2020.12.30-11.32.46:027][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.30-11.32.46:241][  0]LogDerivedDataCache: Saved boot cache 0.21s 82MB C:/Users/joshp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.12.30-11.32.46:243][  0]LogInit: Texture streaming: Enabled
+[2020.12.30-11.32.46:270][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.30-11.32.46:270][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.30-11.32.46:277][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.30-11.32.46:404][  0]LogInit: Transaction tracking system initialized
+[2020.12.30-11.32.46:424][  0]BlueprintLog: New page: Editor Load
+[2020.12.30-11.32.46:491][  0]LocalizationService: Localization service is disabled
+[2020.12.30-11.32.46:574][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.12.30-11.32.46:574][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.12.30-11.32.46:574][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2020.12.30-11.32.47:015][  0]LogFileCache: Scanning file cache for directory 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/' took 0.00s
+[2020.12.30-11.32.47:016][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.30-11.32.47:016][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.30-11.32.47:924][  0]SourceControl: Source control is disabled
+[2020.12.30-11.32.47:924][  0]Cmd: MAP LOAD FILE="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/TopDownCPP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.30-11.32.47:925][  0]LightingResults: New page: Lighting Build
+[2020.12.30-11.32.47:925][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-11.32.47:925][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-11.32.47:926][  0]MapCheck: New page: Map Check
+[2020.12.30-11.32.47:926][  0]LightingResults: New page: Lighting Build
+[2020.12.30-11.32.47:956][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.12.30-11.32.48:536][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.12.30-11.32.48:788][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.30-11.32.48:845][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.12.30-11.32.48:845][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.30-11.32.48:845][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2020.12.30-11.32.48:845][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.921
+[2020.12.30-11.32.49:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-11.32.49:098][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-11.32.49:105][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-11.32.49:112][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-11.32.49:133][  0]LogCollectionManager: Loaded 0 collections in 0.002556 seconds
+[2020.12.30-11.32.49:176][  0]LogFileCache: Scanning file cache for directory 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/Collections/' took 0.00s
+[2020.12.30-11.32.49:176][  0]LogFileCache: Scanning file cache for directory 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/Developers/joshp/Collections/' took 0.00s
+[2020.12.30-11.32.49:176][  0]LogFileCache: Scanning file cache for directory 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/Collections/' took 0.00s
+[2020.12.30-11.32.49:176][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 3019 classes and 719 folders.
+[2020.12.30-11.32.49:190][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.30-11.32.49:387][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.30-11.32.49:409][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.12.30-11.32.49:528][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.30-11.32.49:537][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.30-11.32.49:543][  0]LogSlate: Took 0.001036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.30-11.32.49:647][  0]LogRenderer: Reallocating scene render targets to support 916x328 Format 10 NumSamples 1 (Frame:1).
+[2020.12.30-11.32.49:861][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.12.30-11.32.49:862][  0]LogLoad: (Engine Initialization) Total time: 14.96 seconds
+[2020.12.30-11.32.49:862][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.30-11.32.49:943][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.30-11.32.49:974][  0]LogSlate: Took 0.001718 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.30-11.32.50:183][  3]LogAssetRegistry: Asset discovery search completed in 9.1679 seconds
+[2020.12.30-11.32.50:185][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.12.30-11.53.39:615][890]Candidate modules for hot reload:
+[2020.12.30-11.53.39:615][890]  TurnBasedStrategyC
+[2020.12.30-11.53.39:615][890]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,7380 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.30-11.53.39:618][890]Warning: Starting HotReload took  1.2s.
+[2020.12.30-11.56.36:600][123]CompilerResultsLog: New page: Compilation - 30 Dec 2020, 11:56:36
+[2020.12.30-11.56.36:600][123]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.30-11.56.36:600][123]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.30-11.56.36:600][123]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.12.30-11.56.36:600][123]CompilerResultsLog:   [1/4] TurnBasedStrategyCPlayerController.cpp
+[2020.12.30-11.56.36:601][123]CompilerResultsLog:    D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Source\TurnBasedStrategyC\TurnBasedStrategyCPlayerController.cpp(108) : error C2039: 'Y': is not a member of 'ATurnBasedStrategyCGrid::returnLocation'
+[2020.12.30-11.56.36:601][123]CompilerResultsLog:   D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Source\TurnBasedStrategyC\TurnBasedStrategyCGrid.h(53): note: see declaration of 'ATurnBasedStrategyCGrid::returnLocation'
+[2020.12.30-11.56.36:601][123]CompilerResultsLog:    D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Source\TurnBasedStrategyC\TurnBasedStrategyCPlayerController.cpp(108) : error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'FVector'
+[2020.12.30-11.56.36:601][123]CompilerResultsLog:   D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Source\TurnBasedStrategyC\TurnBasedStrategyCPlayerController.cpp(108): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+[2020.12.30-11.56.36:601][123]CompilerResultsLog:    D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Source\TurnBasedStrategyC\TurnBasedStrategyCPlayerController.cpp(108) : error C2660: 'UAIBlueprintHelperLibrary::SimpleMoveToLocation': function does not take 1 arguments
+[2020.12.30-11.56.36:601][123]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\AIModule\Classes\Blueprint/AIBlueprintHelperLibrary.h(73): note: see declaration of 'UAIBlueprintHelperLibrary::SimpleMoveToLocation'
+[2020.12.30-11.56.36:601][123]LogMainFrame: MainFrame: Module compiling took 177.001 seconds
+[2020.12.30-11.56.36:601][123]Warning: HotReload failed, recompile failed
+[2020.12.30-11.57.27:673][211]LogSlate: Window 'Message Log' being destroyed
+[2020.12.30-11.57.27:678][211]LogSlate: Window 'Message Log' being destroyed
+[2020.12.30-11.57.42:566][425]Candidate modules for hot reload:
+[2020.12.30-11.57.42:566][425]  TurnBasedStrategyC
+[2020.12.30-11.57.42:566][425]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,7927 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.30-11.57.42:568][425]Warning: Starting HotReload took  0.0s.
+[2020.12.30-11.58.04:578][341]CompilerResultsLog: New page: Compilation - 30 Dec 2020, 11:58:04
+[2020.12.30-11.58.04:578][341]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.30-11.58.04:578][341]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.30-11.58.04:578][341]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.12.30-11.58.04:578][341]CompilerResultsLog:   [1/4] TurnBasedStrategyCPlayerController.cpp
+[2020.12.30-11.58.04:578][341]CompilerResultsLog:   [2/4] UE4Editor-TurnBasedStrategyC-7927.lib
+[2020.12.30-11.58.04:578][341]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-7927.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-7927.exp
+[2020.12.30-11.58.04:578][341]CompilerResultsLog:   [3/4] UE4Editor-TurnBasedStrategyC-7927.dll
+[2020.12.30-11.58.04:578][341]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-7927.suppressed.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-7927.suppressed.exp
+[2020.12.30-11.58.04:578][341]CompilerResultsLog:   [4/4] TurnBasedStrategyCEditor.target
+[2020.12.30-11.58.04:578][341]CompilerResultsLog: Total time in Parallel executor: 20.31 seconds
+[2020.12.30-11.58.04:578][341]CompilerResultsLog: Total execution time: 21.75 seconds
+[2020.12.30-11.58.04:578][341]LogMainFrame: MainFrame: Module compiling took 22.024 seconds
+[2020.12.30-11.58.04:607][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.12.30-11.58.07:341][341]LogContentBrowser: Native class hierarchy updated for 'TurnBasedStrategyC' in 0.0006 seconds. Added 4 classes and 2 folders.
+[2020.12.30-11.58.07:344][341]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.30-11.58.07:435][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.12.30-11.58.07:448][341]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 3021 classes and 722 folders.
+[2020.12.30-11.58.07:448][341]Display: HotReload took 24.9s.
+[2020.12.30-11.58.12:104][425]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-11.58.12:116][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-11.58.12:116][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.30-11.58.12:116][425]PIE: New page: PIE session: TopDownExampleMap (30 Dec 2020, 11:58:12)
+[2020.12.30-11.58.12:118][425]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.30-11.58.12:119][425]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.30-11.58.12:120][425]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-11.58.12:198][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078531s)
+[2020.12.30-11.58.12:200][425]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.12.30-11.58.12:200][425]LogPlayLevel: PIE: World Init took: (0.002192s)
+[2020.12.30-11.58.12:201][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.081467s)
+[2020.12.30-11.58.12:227][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.12.30-11.58.12:228][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-11.58.12:228][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-11.58.12:228][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-11.58.12:228][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-11.58.12:228][425]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-11.58.12:228][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-11.58.12:228][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-11.58.12:228][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-11.58.12:229][425]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-11.58.12:229][425]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-11.58.12:234][425]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.30-11.58.12:234][425]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-11.58.12:234][425]LogAudioMixer: Display: Is Default: Yes
+[2020.12.30-11.58.12:234][425]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.30-11.58.12:234][425]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.30-11.58.12:234][425]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.30-11.58.12:234][425]LogAudioMixer: Display: Channel Order:
+[2020.12.30-11.58.12:234][425]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-11.58.12:234][425]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-11.58.12:320][425]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-11.58.12:322][425]LogInit: FAudioDevice initialized.
+[2020.12.30-11.58.12:337][425]LogLoad: Game class is 'TurnBasedStrategyCGameMode'
+[2020.12.30-11.58.12:341][425]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.12.30-11.58.12
+[2020.12.30-11.58.12:342][425]LogWorld: Bringing up level for play took: 0.003162
+[2020.12.30-11.58.12:343][425]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.12.30-11.58.12:403][425]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.12.30-11.58.12:408][425]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.161
+[2020.12.30-11.58.12:408][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-11.58.58:642][189]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-11.58.58:642][189]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-11.58.58:643][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-11.58.58:645][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-11.58.58:645][189]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-11.58.58:646][189]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-11.58.58:647][189]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-11.58.58:650][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-11.58.58:662][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-11.58.58:663][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-11.58.58:667][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-11.58.58:692][189]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-11.58.58:699][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-11.58.58:712][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.12.30-11.58.58:743][191]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.12.30-11.59.18:271][492]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.30-11.59.52:187][686]Candidate modules for hot reload:
+[2020.12.30-11.59.52:187][686]  TurnBasedStrategyC
+[2020.12.30-11.59.52:187][686]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,2114 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.30-11.59.52:189][686]Warning: Starting HotReload took  0.0s.
+[2020.12.30-11.59.57:646][995]CompilerResultsLog: New page: Compilation - 30 Dec 2020, 11:59:57
+[2020.12.30-11.59.57:646][995]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.30-11.59.57:646][995]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.30-11.59.57:646][995]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.12.30-11.59.57:646][995]CompilerResultsLog:   [1/4] TurnBasedStrategyCGrid.cpp
+[2020.12.30-11.59.57:646][995]CompilerResultsLog:   [2/4] UE4Editor-TurnBasedStrategyC-2114.lib
+[2020.12.30-11.59.57:646][995]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-2114.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-2114.exp
+[2020.12.30-11.59.57:647][995]CompilerResultsLog:   [3/4] UE4Editor-TurnBasedStrategyC-2114.dll
+[2020.12.30-11.59.57:647][995]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-2114.suppressed.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-2114.suppressed.exp
+[2020.12.30-11.59.57:647][995]CompilerResultsLog:   [4/4] TurnBasedStrategyCEditor.target
+[2020.12.30-11.59.57:647][995]CompilerResultsLog: Total time in Parallel executor: 3.85 seconds
+[2020.12.30-11.59.57:647][995]CompilerResultsLog: Total execution time: 5.32 seconds
+[2020.12.30-11.59.57:647][995]LogMainFrame: MainFrame: Module compiling took 5.472 seconds
+[2020.12.30-11.59.57:672][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.12.30-11.59.57:974][995]LogContentBrowser: Native class hierarchy updated for 'TurnBasedStrategyC' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2020.12.30-11.59.57:977][995]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.30-11.59.58:051][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.12.30-11.59.58:064][995]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 3021 classes and 722 folders.
+[2020.12.30-11.59.58:064][995]Display: HotReload took  5.9s.
+[2020.12.30-11.59.59:611][ 83]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-11.59.59:619][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-11.59.59:620][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.30-11.59.59:620][ 83]PIE: New page: PIE session: TopDownExampleMap (30 Dec 2020, 11:59:59)
+[2020.12.30-11.59.59:620][ 83]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-11.59.59:683][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063205s)
+[2020.12.30-11.59.59:686][ 83]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.12.30-11.59.59:692][ 83]LogPlayLevel: PIE: World Init took: (0.008275s)
+[2020.12.30-11.59.59:692][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.071847s)
+[2020.12.30-11.59.59:719][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.12.30-11.59.59:720][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-11.59.59:720][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-11.59.59:720][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-11.59.59:720][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-11.59.59:720][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-11.59.59:720][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-11.59.59:720][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-11.59.59:720][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-11.59.59:721][ 83]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-11.59.59:721][ 83]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-11.59.59:726][ 83]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.30-11.59.59:726][ 83]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-11.59.59:727][ 83]LogAudioMixer: Display: Is Default: Yes
+[2020.12.30-11.59.59:727][ 83]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.30-11.59.59:727][ 83]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.30-11.59.59:727][ 83]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.30-11.59.59:727][ 83]LogAudioMixer: Display: Channel Order:
+[2020.12.30-11.59.59:727][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-11.59.59:727][ 83]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-11.59.59:810][ 83]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-11.59.59:812][ 83]LogInit: FAudioDevice initialized.
+[2020.12.30-11.59.59:823][ 83]LogLoad: Game class is 'TurnBasedStrategyCGameMode'
+[2020.12.30-11.59.59:825][ 83]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.12.30-11.59.59
+[2020.12.30-11.59.59:826][ 83]LogWorld: Bringing up level for play took: 0.001751
+[2020.12.30-11.59.59:826][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.12.30-11.59.59:829][ 83]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0.418
+[2020.12.30-11.59.59:829][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.00.44:604][759]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.00.44:604][759]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.00.44:604][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.00.44:604][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-12.00.44:604][759]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-12.00.44:605][759]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.00.44:605][759]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-12.00.44:605][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-12.00.44:613][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-12.00.44:613][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.00.44:617][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-12.00.44:642][759]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.00.44:648][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-12.00.44:655][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.12.30-12.00.44:700][762]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.12.30-12.01.11:231][ 63]Candidate modules for hot reload:
+[2020.12.30-12.01.11:231][ 63]  TurnBasedStrategyC
+[2020.12.30-12.01.11:231][ 63]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,666 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.30-12.01.11:233][ 63]Warning: Starting HotReload took  0.0s.
+[2020.12.30-12.01.22:480][714]CompilerResultsLog: New page: Compilation - 30 Dec 2020, 12:01:22
+[2020.12.30-12.01.22:480][714]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.30-12.01.22:480][714]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.30-12.01.22:480][714]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.12.30-12.01.22:480][714]CompilerResultsLog:   [1/4] TurnBasedStrategyCCharacter.cpp
+[2020.12.30-12.01.22:481][714]CompilerResultsLog:   [2/4] UE4Editor-TurnBasedStrategyC-0666.lib
+[2020.12.30-12.01.22:481][714]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-0666.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-0666.exp
+[2020.12.30-12.01.22:481][714]CompilerResultsLog:   [3/4] UE4Editor-TurnBasedStrategyC-0666.dll
+[2020.12.30-12.01.22:481][714]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-0666.suppressed.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-0666.suppressed.exp
+[2020.12.30-12.01.22:481][714]CompilerResultsLog:   [4/4] TurnBasedStrategyCEditor.target
+[2020.12.30-12.01.22:481][714]CompilerResultsLog: Total time in Parallel executor: 9.71 seconds
+[2020.12.30-12.01.22:481][714]CompilerResultsLog: Total execution time: 11.13 seconds
+[2020.12.30-12.01.22:481][714]LogMainFrame: MainFrame: Module compiling took 11.264 seconds
+[2020.12.30-12.01.22:511][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.12.30-12.01.22:525][714]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 3021 classes and 722 folders.
+[2020.12.30-12.01.22:525][714]Display: HotReload took 11.3s.
+[2020.12.30-12.01.24:322][817]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-12.01.24:336][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.01.24:336][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.30-12.01.24:336][817]PIE: New page: PIE session: TopDownExampleMap (30 Dec 2020, 12:01:24)
+[2020.12.30-12.01.24:336][817]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-12.01.24:396][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060140s)
+[2020.12.30-12.01.24:398][817]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.12.30-12.01.24:399][817]LogPlayLevel: PIE: World Init took: (0.002304s)
+[2020.12.30-12.01.24:399][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.062704s)
+[2020.12.30-12.01.24:429][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.12.30-12.01.24:429][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-12.01.24:429][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-12.01.24:429][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-12.01.24:429][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-12.01.24:429][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-12.01.24:430][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-12.01.24:430][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-12.01.24:430][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-12.01.24:430][817]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-12.01.24:430][817]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-12.01.24:434][817]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.30-12.01.24:434][817]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-12.01.24:434][817]LogAudioMixer: Display: Is Default: Yes
+[2020.12.30-12.01.24:434][817]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.30-12.01.24:434][817]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.30-12.01.24:434][817]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.30-12.01.24:434][817]LogAudioMixer: Display: Channel Order:
+[2020.12.30-12.01.24:434][817]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-12.01.24:434][817]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-12.01.24:519][817]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-12.01.24:521][817]LogInit: FAudioDevice initialized.
+[2020.12.30-12.01.24:529][817]LogLoad: Game class is 'TurnBasedStrategyCGameMode'
+[2020.12.30-12.01.24:532][817]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.12.30-12.01.24
+[2020.12.30-12.01.24:532][817]LogWorld: Bringing up level for play took: 0.002161
+[2020.12.30-12.01.24:532][817]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.12.30-12.01.24:535][817]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.29
+[2020.12.30-12.01.24:535][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.01.48:264][232]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.01.48:264][232]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.01.48:264][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.01.48:265][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-12.01.48:265][232]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-12.01.48:265][232]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.01.48:265][232]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-12.01.48:266][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-12.01.48:274][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-12.01.48:275][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.01.48:278][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-12.01.48:303][232]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.01.48:308][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-12.01.48:315][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.12.30-12.01.48:362][235]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.12.30-12.02.33:050][548]Candidate modules for hot reload:
+[2020.12.30-12.02.33:050][548]  TurnBasedStrategyC
+[2020.12.30-12.02.33:051][548]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,59 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.30-12.02.33:052][548]Warning: Starting HotReload took  0.0s.
+[2020.12.30-12.02.36:781][752]CompilerResultsLog: New page: Compilation - 30 Dec 2020, 12:02:36
+[2020.12.30-12.02.36:782][752]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.30-12.02.36:782][752]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.30-12.02.36:782][752]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.12.30-12.02.36:782][752]CompilerResultsLog:   [1/4] TurnBasedStrategyCGrid.cpp
+[2020.12.30-12.02.36:782][752]CompilerResultsLog:   [2/4] UE4Editor-TurnBasedStrategyC-0059.lib
+[2020.12.30-12.02.36:782][752]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-0059.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-0059.exp
+[2020.12.30-12.02.36:782][752]CompilerResultsLog:   [3/4] UE4Editor-TurnBasedStrategyC-0059.dll
+[2020.12.30-12.02.36:782][752]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-0059.suppressed.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-0059.suppressed.exp
+[2020.12.30-12.02.36:782][752]CompilerResultsLog:   [4/4] TurnBasedStrategyCEditor.target
+[2020.12.30-12.02.36:782][752]CompilerResultsLog: Total time in Parallel executor: 2.21 seconds
+[2020.12.30-12.02.36:782][752]CompilerResultsLog: Total execution time: 3.62 seconds
+[2020.12.30-12.02.36:782][752]LogMainFrame: MainFrame: Module compiling took 3.744 seconds
+[2020.12.30-12.02.36:807][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.30-12.02.36:821][752]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 3021 classes and 722 folders.
+[2020.12.30-12.02.36:821][752]Display: HotReload took  3.8s.
+[2020.12.30-12.02.39:263][897]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-12.02.39:274][897]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.02.39:274][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.30-12.02.39:274][897]PIE: New page: PIE session: TopDownExampleMap (30 Dec 2020, 12:02:39)
+[2020.12.30-12.02.39:274][897]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-12.02.39:333][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059239s)
+[2020.12.30-12.02.39:335][897]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.12.30-12.02.39:336][897]LogPlayLevel: PIE: World Init took: (0.002100s)
+[2020.12.30-12.02.39:336][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.061577s)
+[2020.12.30-12.02.39:368][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.12.30-12.02.39:368][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-12.02.39:368][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-12.02.39:368][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-12.02.39:368][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-12.02.39:368][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-12.02.39:368][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-12.02.39:368][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-12.02.39:368][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-12.02.39:368][897]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-12.02.39:368][897]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-12.02.39:371][897]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.30-12.02.39:372][897]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-12.02.39:372][897]LogAudioMixer: Display: Is Default: Yes
+[2020.12.30-12.02.39:372][897]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.30-12.02.39:372][897]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.30-12.02.39:372][897]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.30-12.02.39:372][897]LogAudioMixer: Display: Channel Order:
+[2020.12.30-12.02.39:372][897]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-12.02.39:372][897]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-12.02.39:458][897]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-12.02.39:460][897]LogInit: FAudioDevice initialized.
+[2020.12.30-12.02.39:470][897]LogLoad: Game class is 'TurnBasedStrategyCGameMode'
+[2020.12.30-12.02.39:472][897]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.12.30-12.02.39
+[2020.12.30-12.02.39:473][897]LogWorld: Bringing up level for play took: 0.001752
+[2020.12.30-12.02.39:473][897]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.12.30-12.02.39:476][897]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0.77
+[2020.12.30-12.02.39:476][897]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.02.54:942][814]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.02.54:943][814]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.02.54:943][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.02.54:943][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-12.02.54:943][814]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-12.02.54:943][814]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.02.54:943][814]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-12.02.54:944][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-12.02.54:954][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-12.02.54:955][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.02.54:957][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-12.02.54:983][814]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.02.54:990][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-12.02.54:996][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.12.30-12.02.55:043][817]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.12.30-12.05.00:287][  5]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.30-12.05.01:036][ 34]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.30-12.05.03:237][163]LogEditorViewport: Clicking on Actor (LMB): Grid_C (Grid)
+[2020.12.30-12.05.13:800][764]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Grid.Grid
+[2020.12.30-12.05.14:180][764]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.12.30-12.05.15:162][764]LogActor: Warning: Grid_C /Engine/Transient.World_2:PersistentLevel.Grid_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.12.30-12.05.17:979][918]LogSlate: Window 'Grid' being destroyed
+[2020.12.30-12.05.17:993][918]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-12.05.17:993][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-12.05.18:077][918]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Grid.Grid
+[2020.12.30-12.05.18:533][918]LogActor: Warning: Grid_C /Engine/Transient.World_3:PersistentLevel.Grid_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.12.30-12.05.18:539][918]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.30-12.05.21:556][ 73]LogRenderer: Reallocating scene render targets to support 916x520 Format 10 NumSamples 1 (Frame:1).
+[2020.12.30-12.05.43:688][381]LogSlate: Window 'Grid' being destroyed
+[2020.12.30-12.05.43:695][381]LogSlate: Window 'Grid' being destroyed
+[2020.12.30-12.05.43:696][381]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-12.05.43:696][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-12.06.11:092][  1]Cmd: TRANSACTION UNDO
+[2020.12.30-12.06.11:098][  1]LogEditorTransaction: Undo Move Actors
+[2020.12.30-12.06.20:233][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.12.30-12.06.20:314][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.12.30-12.06.20:679][519]LogSavePackage: Moving 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Saved/TopDownExampleMapFF0D67DB4C99BF906E180DAB4E717D8E.tmp' to 'D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
+[2020.12.30-12.06.20:695][519]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.418
+[2020.12.30-12.06.20:707][519]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2020.12.30-12.06.20:707][519]LogContentValidation: Display: Validating World /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.12.30-12.06.22:215][607]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-12.06.22:222][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.06.22:222][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.30-12.06.22:222][607]PIE: New page: PIE session: TopDownExampleMap (30 Dec 2020, 12:06:22)
+[2020.12.30-12.06.22:222][607]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-12.06.22:285][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063356s)
+[2020.12.30-12.06.22:287][607]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.12.30-12.06.22:287][607]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2020.12.30-12.06.22:287][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.065002s)
+[2020.12.30-12.06.22:327][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.12.30-12.06.22:329][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-12.06.22:329][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-12.06.22:329][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-12.06.22:329][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-12.06.22:329][607]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-12.06.22:329][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-12.06.22:329][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-12.06.22:329][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-12.06.22:329][607]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-12.06.22:330][607]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-12.06.22:333][607]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.30-12.06.22:333][607]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-12.06.22:333][607]LogAudioMixer: Display: Is Default: Yes
+[2020.12.30-12.06.22:333][607]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.30-12.06.22:333][607]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.30-12.06.22:333][607]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.30-12.06.22:333][607]LogAudioMixer: Display: Channel Order:
+[2020.12.30-12.06.22:333][607]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-12.06.22:333][607]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-12.06.22:415][607]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-12.06.22:417][607]LogInit: FAudioDevice initialized.
+[2020.12.30-12.06.22:429][607]LogLoad: Game class is 'TurnBasedStrategyCGameMode'
+[2020.12.30-12.06.22:432][607]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.12.30-12.06.22
+[2020.12.30-12.06.22:432][607]LogWorld: Bringing up level for play took: 0.002491
+[2020.12.30-12.06.22:432][607]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.12.30-12.06.22:435][607]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.189
+[2020.12.30-12.06.22:435][607]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.06.31:618][146]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.06.31:618][146]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.06.31:618][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.06.31:618][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-12.06.31:618][146]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-12.06.31:618][146]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.06.31:618][146]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-12.06.31:619][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-12.06.31:629][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-12.06.31:629][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.06.31:633][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-12.06.31:665][146]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.06.31:671][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-12.06.31:678][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.12.30-12.06.31:729][149]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.12.30-12.06.36:184][408]Candidate modules for hot reload:
+[2020.12.30-12.06.36:184][408]  TurnBasedStrategyC
+[2020.12.30-12.06.36:184][408]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TurnBasedStrategyC,6313 Win64 Development -TargetType=Editor -Project="D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject" "D:/My Documents/Abertay Stuff/CMP302/Unreal Projects/Week 4/TurnBasedStrategyC/TurnBasedStrategyC.uproject"  -IgnoreJunk]
+[2020.12.30-12.06.36:186][408]Warning: Starting HotReload took  0.0s.
+[2020.12.30-12.06.40:091][623]CompilerResultsLog: New page: Compilation - 30 Dec 2020, 12:06:40
+[2020.12.30-12.06.40:091][623]CompilerResultsLog: Building TurnBasedStrategyCEditor...
+[2020.12.30-12.06.40:091][623]CompilerResultsLog: Using Visual Studio 2019 14.23.28107 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.30-12.06.40:091][623]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.12.30-12.06.40:091][623]CompilerResultsLog:   [1/4] TurnBasedStrategyCGrid.cpp
+[2020.12.30-12.06.40:091][623]CompilerResultsLog:   [2/4] UE4Editor-TurnBasedStrategyC-6313.lib
+[2020.12.30-12.06.40:091][623]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-6313.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-6313.exp
+[2020.12.30-12.06.40:091][623]CompilerResultsLog:   [3/4] UE4Editor-TurnBasedStrategyC-6313.dll
+[2020.12.30-12.06.40:091][623]CompilerResultsLog:      Creating library D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-6313.suppressed.lib and object D:\My Documents\Abertay Stuff\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\UE4Editor-TurnBasedStrategyC-6313.suppressed.exp
+[2020.12.30-12.06.40:091][623]CompilerResultsLog:   [4/4] TurnBasedStrategyCEditor.target
+[2020.12.30-12.06.40:091][623]CompilerResultsLog: Total time in Parallel executor: 2.27 seconds
+[2020.12.30-12.06.40:091][623]CompilerResultsLog: Total execution time: 3.78 seconds
+[2020.12.30-12.06.40:091][623]LogMainFrame: MainFrame: Module compiling took 3.920 seconds
+[2020.12.30-12.06.40:125][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.12.30-12.06.42:467][623]LogContentBrowser: Native class hierarchy updated for 'TurnBasedStrategyC' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2020.12.30-12.06.42:472][623]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.30-12.06.42:563][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.12.30-12.06.42:580][623]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 3021 classes and 722 folders.
+[2020.12.30-12.06.42:580][623]Display: HotReload took  6.4s.
+[2020.12.30-12.06.53:337][247]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-12.06.53:345][247]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.06.53:345][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.30-12.06.53:346][247]PIE: New page: PIE session: TopDownExampleMap (30 Dec 2020, 12:06:53)
+[2020.12.30-12.06.53:346][247]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-12.06.53:412][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066472s)
+[2020.12.30-12.06.53:414][247]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.12.30-12.06.53:414][247]LogPlayLevel: PIE: World Init took: (0.001839s)
+[2020.12.30-12.06.53:414][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.068500s)
+[2020.12.30-12.06.53:491][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.12.30-12.06.53:494][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-12.06.53:494][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-12.06.53:494][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-12.06.53:494][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-12.06.53:494][247]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-12.06.53:494][247]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-12.06.53:494][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-12.06.53:494][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-12.06.53:495][247]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-12.06.53:495][247]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-12.06.53:498][247]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.30-12.06.53:498][247]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-12.06.53:498][247]LogAudioMixer: Display: Is Default: Yes
+[2020.12.30-12.06.53:498][247]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.30-12.06.53:498][247]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.30-12.06.53:498][247]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.30-12.06.53:498][247]LogAudioMixer: Display: Channel Order:
+[2020.12.30-12.06.53:498][247]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-12.06.53:498][247]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-12.06.53:584][247]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-12.06.53:586][247]LogInit: FAudioDevice initialized.
+[2020.12.30-12.06.53:594][247]LogLoad: Game class is 'TurnBasedStrategyCGameMode'
+[2020.12.30-12.06.53:596][247]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.12.30-12.06.53
+[2020.12.30-12.06.53:597][247]LogWorld: Bringing up level for play took: 0.001550
+[2020.12.30-12.06.53:597][247]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.12.30-12.06.53:600][247]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0.647
+[2020.12.30-12.06.53:600][247]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.07.00:725][664]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.07.00:725][664]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.07.00:725][664]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.07.00:726][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-12.07.00:726][664]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-12.07.00:726][664]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.07.00:726][664]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-12.07.00:726][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-12.07.00:738][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-12.07.00:738][664]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.07.00:743][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-12.07.00:779][664]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.30-12.07.00:785][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-12.07.00:809][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.12.30-12.07.00:822][665]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.12.30-12.07.03:701][833]LogEditorViewport: Clicking on Actor (LMB): Grid_C (Grid)
+[2020.12.30-12.07.04:945][905]Cmd: DELETE
+[2020.12.30-12.07.04:945][905]Cmd: ACTOR DELETE
+[2020.12.30-12.07.04:967][905]LogEditorActor: Deleted Actor: Grid_C
+[2020.12.30-12.07.04:999][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.12.30-12.07.05:006][905]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2020.12.30-12.07.06:204][977]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-12.07.06:211][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.12.30-12.07.06:212][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.30-12.07.06:212][977]PIE: New page: PIE session: TopDownExampleMap (30 Dec 2020, 12:07:06)
+[2020.12.30-12.07.06:212][977]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.12.30-12.07.06:277][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065498s)
+[2020.12.30-12.07.06:279][977]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.12.30-12.07.06:280][977]LogPlayLevel: PIE: World Init took: (0.002103s)
+[2020.12.30-12.07.06:280][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.067863s)
+[2020.12.30-12.07.06:318][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.12.30-12.07.06:318][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-12.07.06:318][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-12.07.06:318][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-12.07.06:318][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-12.07.06:318][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-12.07.06:318][977]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-12.07.06:318][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-12.07.06:318][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-12.07.06:319][977]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-12.07.06:319][977]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-12.07.06:321][977]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.30-12.07.06:322][977]LogAudioMixer: Display: Name: Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-12.07.06:322][977]LogAudioMixer: Display: Is Default: Yes
+[2020.12.30-12.07.06:322][977]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.30-12.07.06:322][977]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.30-12.07.06:322][977]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.30-12.07.06:322][977]LogAudioMixer: Display: Channel Order:
+[2020.12.30-12.07.06:322][977]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-12.07.06:322][977]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-12.07.06:413][977]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (2- Realtek Audio)
+[2020.12.30-12.07.06:415][977]LogInit: FAudioDevice initialized.
+[2020.12.30-12.07.06:424][977]LogLoad: Game class is 'TurnBasedStrategyCGameMode'
+[2020.12.30-12.07.06:426][977]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.12.30-12.07.06
+[2020.12.30-12.07.06:426][977]LogWorld: Bringing up level for play took: 0.001468
+[2020.12.30-12.07.06:426][977]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.12.30-12.07.06:429][977]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.30-12.07.06:429][977]LogWindows: Windows GetLastError: The operation completed successfully. (0)

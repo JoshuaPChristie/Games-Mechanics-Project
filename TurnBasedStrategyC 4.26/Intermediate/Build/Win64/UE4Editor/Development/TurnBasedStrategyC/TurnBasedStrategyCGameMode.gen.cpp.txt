@@ -1,0 +1,34 @@
+C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Development\TurnBasedStrategyC\Definitions.TurnBasedStrategyC.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Source\TurnBasedStrategyC/TurnBasedStrategyCGameMode.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Source\TurnBasedStrategyC\TurnBasedStrategyCGrid.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
+C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Source\TurnBasedStrategyC\TurnBasedStrategyCCharacter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Inc\TurnBasedStrategyC\TurnBasedStrategyCCharacter.generated.h
+C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Inc\TurnBasedStrategyC\TurnBasedStrategyCGrid.generated.h
+C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Source\TurnBasedStrategyC\TurnBasedStrategyCPlayerController.h
+C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Inc\TurnBasedStrategyC\TurnBasedStrategyCPlayerController.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Users\joshp\Documents\Abertay\Year 3\CMP302\Unreal Projects\Week 4\TurnBasedStrategyC 4.26\Intermediate\Build\Win64\UE4Editor\Inc\TurnBasedStrategyC\TurnBasedStrategyCGameMode.generated.h
